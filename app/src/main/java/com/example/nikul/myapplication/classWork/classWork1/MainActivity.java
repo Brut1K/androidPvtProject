@@ -13,8 +13,11 @@ import android.widget.Toast;
 import com.example.nikul.myapplication.R;
 import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
 import com.example.nikul.myapplication.classWork.classWork2.Singleton;
+import com.example.nikul.myapplication.classWork.classWork3.ClassWork3;
+import com.example.nikul.myapplication.classWork.classWork4.ClassWork4;
 import com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1;
 import com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2;
+import com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3;
 
 /**
  * Created by nikul on 05.02.2018.
@@ -29,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private Button hw2;
     private Button cw3;
     private Button hw3;
+    private Button cw4;
 
 
 
@@ -42,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         hw2 = findViewById(R.id.button4);
         cw3 = findViewById(R.id.button5);
         hw3 = findViewById(R.id.button6);
+        cw4 = findViewById(R.id.button7);
 
         cw1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -73,6 +78,29 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, HomeWork2.class);
+                startActivity(intent);
+            }
+        });
+
+        cw3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ClassWork3.class);
+                startActivity(intent);
+            }
+        });
+
+        hw3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, HomeWork3.class);
+                startActivity(intent);
+            }
+        });
+        cw4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ClassWork4.class);
                 startActivity(intent);
             }
         });

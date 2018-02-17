@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.example.nikul.myapplication.BuildConfig;
 import com.example.nikul.myapplication.R;
 import com.example.nikul.myapplication.classWork.classWork1.MainActivity;
 
@@ -31,6 +32,7 @@ public class ClassWork2 extends AppCompatActivity {
         } else {
             Log.e("AAA","not contain");
         }
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

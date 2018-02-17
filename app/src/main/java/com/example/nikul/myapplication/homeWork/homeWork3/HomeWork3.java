@@ -1,0 +1,46 @@
+package com.example.nikul.myapplication.homeWork.homeWork3;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.Toast;
+
+import com.bumptech.glide.Glide;
+import com.example.nikul.myapplication.R;
+
+/**
+ * Created by nikul on 16.02.2018.
+ */
+
+public class HomeWork3 extends Activity {
+
+    private Button button;
+    private EditText editText;
+    private ImageView imageView;
+
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_homework3);
+        button = findViewById(R.id.downloadbutton);
+        editText = findViewById(R.id.editText);
+        imageView = findViewById(R.id.image333);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Log.e("AAA",editText.getText().toString());
+                Glide.with(HomeWork3.this)
+                        .load(editText.getText().toString()).into(imageView);
+            }
+        });
+    }
+
+
+
+}

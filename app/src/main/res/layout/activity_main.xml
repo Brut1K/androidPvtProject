@@ -43,7 +43,9 @@
             android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="classwork3" />
+            android:text="classwork3"
+            android:background="#54a1e9"
+            android:layout_margin="5dp"/>
 
         <Button
             android:id="@+id/button6"
