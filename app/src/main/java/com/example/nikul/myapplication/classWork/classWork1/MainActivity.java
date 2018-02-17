@@ -18,6 +18,7 @@ import com.example.nikul.myapplication.classWork.classWork4.ClassWork4;
 import com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1;
 import com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2;
 import com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3;
+import com.squareup.leakcanary.LeakCanary;
 
 /**
  * Created by nikul on 05.02.2018.
@@ -39,6 +40,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        if(LeakCanary.isInAnalyzerProcess(this)){
+            return;
+        }
+        LeakCanary.install(getApplication());
         setContentView(R.layout.activity_main);
         cw1 = findViewById(R.id.button1);
         hw1 = findViewById(R.id.button2);
