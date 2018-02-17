@@ -8,9 +8,11 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
+import com.example.nikul.myapplication.BuildConfig;
 import com.example.nikul.myapplication.R;
 
 /**
@@ -22,6 +24,7 @@ public class HomeWork3 extends Activity {
     private Button button;
     private EditText editText;
     private ImageView imageView;
+    private TextView textView;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -30,13 +33,15 @@ public class HomeWork3 extends Activity {
         button = findViewById(R.id.downloadbutton);
         editText = findViewById(R.id.editText);
         imageView = findViewById(R.id.image333);
+        textView = findViewById(R.id.textView);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                Log.e("AAA",editText.getText().toString());
                 Glide.with(HomeWork3.this)
                         .load(editText.getText().toString()).into(imageView);
+
+                textView.setText(BuildConfig.API_ENDPOINT);
             }
         });
     }
