@@ -208,6 +208,10 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_owl.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\layout\\activity_owl.xml"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -632,6 +636,10 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sova_anmation_2.png.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\drawable\\sova_anmation_2.png"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\layout\\abc_screen_simple.xml"
     },
@@ -654,6 +662,10 @@
     {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_zoom_out.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\anim\\animation_zoom_out.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -784,8 +796,16 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sova_anmation_1.png.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\drawable\\sova_anmation_1.png"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homework4.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\layout\\activity_homework4.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1092,8 +1112,16 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\anim\\tooltip_exit.xml"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sova_anmation_3.png.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\drawable\\sova_anmation_3.png"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_icon.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.4.aar\\ad8117dcf7cd142c368fc9df5c4f944c\\res\\drawable-xhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_classwork5.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\layout\\activity_classwork5.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1512,6 +1540,10 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sova_animation.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\drawable\\sova_animation.xml"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -1538,6 +1570,10 @@
     {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_zoom_in.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\app\\src\\main\\res\\anim\\animation_zoom_in.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",

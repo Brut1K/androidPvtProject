@@ -1,5 +1,6 @@
 package com.example.nikul.myapplication.classWork.classWork1;
 
+import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -15,9 +16,11 @@ import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
 import com.example.nikul.myapplication.classWork.classWork2.Singleton;
 import com.example.nikul.myapplication.classWork.classWork3.ClassWork3;
 import com.example.nikul.myapplication.classWork.classWork4.ClassWork4;
+import com.example.nikul.myapplication.classWork.classWork5.ClassWork5;
 import com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1;
 import com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2;
 import com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3;
+import com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4;
 import com.squareup.leakcanary.LeakCanary;
 
 /**
@@ -34,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
     private Button cw3;
     private Button hw3;
     private Button cw4;
+    private Button hw4;
+    private Button cw5;
 
 
 
@@ -52,6 +57,8 @@ public class MainActivity extends AppCompatActivity {
         cw3 = findViewById(R.id.button5);
         hw3 = findViewById(R.id.button6);
         cw4 = findViewById(R.id.button7);
+        hw4 = findViewById(R.id.button8);
+        cw5 = findViewById(R.id.button9);
 
         cw1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -59,9 +66,11 @@ public class MainActivity extends AppCompatActivity {
 
                 Intent intent = new Intent(MainActivity.this, ClassWork1.class);
                 startActivity(intent);
+                setAnimation();
         /*        //эквивалент атрибута noHistory
                 finish();
                 */
+
             }
         });
         hw1.setOnClickListener(new View.OnClickListener() {
@@ -69,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, HomeWork1.class);
                 startActivity(intent);
+                setAnimation();
             }
         });
         cw2.setOnClickListener(new View.OnClickListener() {
@@ -110,6 +120,24 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        hw4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, HomeWork4.class);
+                startActivity(intent);
+                setAnimation();
+            }
+        });
+
+        cw5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ClassWork5.class);
+                startActivity(intent);
+                setAnimation();
+            }
+        });
+
 
 
 
@@ -117,6 +145,16 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG,"onCreate");
     }
 
+
+    public void setAnimation(){
+        overridePendingTransition(R.anim.animation_zoom_out,R.anim.animation_zoom_in);
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        setAnimation();
+    }
 
     @Override
     protected void onStart() {

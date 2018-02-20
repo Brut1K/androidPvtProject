@@ -12,64 +12,64 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="ClassWork1"
-            android:background="#54a1e9"
-            android:layout_margin="5dp"/>
+            style="@style/WorkIsDone"
+            />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="HomeWork1"
-            android:background="#54a1e9"
-            android:layout_margin="5dp"/>
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Classwork2"
-            android:background="#54a1e9"
-            android:layout_margin="5dp"/>
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Homework2"
-            android:background="#54a1e9"
-            android:layout_margin="5dp"/>
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="classwork3"
-            android:background="#54a1e9"
-            android:layout_margin="5dp"/>
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="homework3" />
+            android:text="homework3"
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="classwork4" />
+            android:text="classwork4"
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="homework4" />
+            android:text="homework4"
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button9"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="classwork5" />
+            android:text="classwork5"
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button10"

@@ -104,4 +104,14 @@ public class ClassWork1 extends Activity implements View.OnClickListener{
     public void onPointerCaptureChanged(boolean hasCapture) {
 
     }
+
+    public void setAnimation(){
+        overridePendingTransition(R.anim.animation_zoom_out,R.anim.animation_zoom_in);
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        setAnimation();
+    }
 }

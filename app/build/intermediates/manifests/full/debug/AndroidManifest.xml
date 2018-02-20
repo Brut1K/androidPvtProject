@@ -35,11 +35,23 @@
             android:name="com.example.nikul.myapplication.classWork.classWork2.ClassWork2"
             android:parentActivityName="com.example.nikul.myapplication.classWork.classWork1.MainActivity" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork3.ClassWork3" />
+        <activity android:name="com.example.nikul.myapplication.classWork.classWork4.ClassWork4" />
+        <activity android:name="com.example.nikul.myapplication.classWork.classWork5.ClassWork5" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3" />
-        <activity android:name="com.example.nikul.myapplication.classWork.classWork4.ClassWork4" />
+        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4" />
+        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity" />
+        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity" />
 
+        <receiver android:name="com.example.nikul.myapplication.classWork.classWork5.MyReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.AIRPLANE_MODE" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.example.nikul.myapplication.classWork.classWork5.MyService" />
+        <service android:name="com.example.nikul.myapplication.classWork.classWork5.MyIntentService" />
         <service
             android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
             android:enabled="false"
