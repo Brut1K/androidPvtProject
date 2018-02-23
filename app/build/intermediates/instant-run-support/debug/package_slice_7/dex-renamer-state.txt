@@ -1,4 +1,4 @@
-#Mon Feb 19 20:00:21 MSK 2018
-base.0=D\:\\javapvt\\androidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+#Tue Feb 20 23:44:55 MSK 2018
+base.0=D\:\\javapvt\\androidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
 path.0=classes.dex
 renamed.0=classes.dex
