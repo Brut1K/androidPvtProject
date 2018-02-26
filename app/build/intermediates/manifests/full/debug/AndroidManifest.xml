@@ -36,12 +36,14 @@
         <activity android:name="com.example.nikul.myapplication.classWork.classWork3.ClassWork3" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork4.ClassWork4" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork5.ClassWork5" />
+        <activity android:name="com.example.nikul.myapplication.classWork.classWork6.ClassWork6" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity" />
+        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5" />
 
         <receiver android:name="com.example.nikul.myapplication.classWork.classWork5.MyReceiver" >
             <intent-filter>
