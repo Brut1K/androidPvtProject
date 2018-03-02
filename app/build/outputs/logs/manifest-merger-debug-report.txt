@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\0aa7dd0d909dbfc5222d7c9076f48635\AndroidManifest.xml:15:1-21:12
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:17:1-61:12
 MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\9ab3aed0f30a6b926c5a2d53bbffada9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\060a5cbbcd1acf56212c5684c4e995c8\AndroidManifest.xml:17:1-22:12
@@ -22,35 +23,43 @@ MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\cache
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\27a18698b68369b6b47d6891b6c5ef0a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\ab7afc14aac9809303c243bf03f0f6c6\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5caeacaf958f5b78a4ea289947ff8f2f\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
-INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
+INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
 	package
 		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:2:5-46
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:6:22-73
 uses-permission#android.permission.INTERNET
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:8:5-81
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:24:5-81
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:24:5-81
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:8:22-78
 application
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:6:5-48:23
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:9:5-58:23
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:26:5-59:19
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:26:5-59:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\06997aa81636a8bb8e80920805e838c1\AndroidManifest.xml:9:5-20
@@ -62,107 +71,131 @@ MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\ab7afc14aac9809303c243bf03f0f6c6\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\ab7afc14aac9809303c243bf03f0f6c6\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.nikul.myapplication.classWork.classWork1.MainActivity
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:14:9-21:20
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:17:9-24:20
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:14:19-68
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:17:19-68
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:15:13-19:25
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:18:13-22:25
 action#android.intent.action.MAIN
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:16:13-64
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:19:13-64
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:16:21-62
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:17:13-72
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:20:13-72
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:17:23-70
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.example.nikul.myapplication.classWork.classWork1.ClassWork1
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:22:9-68
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:25:9-68
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:22:19-66
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:25:19-66
 activity#com.example.nikul.myapplication.classWork.classWork2.ClassWork2
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:23:9-25:15
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:26:9-28:15
 	android:parentActivityName
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:24:13-76
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:23:19-66
-activity#com.example.nikul.myapplication.classWork.classWork3.ClassWork3
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:26:9-68
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:27:13-76
 	android:name
 		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:26:19-66
-activity#com.example.nikul.myapplication.classWork.classWork4.ClassWork4
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:27:9-68
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:27:19-66
-activity#com.example.nikul.myapplication.classWork.classWork5.ClassWork5
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:28:9-68
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:28:19-66
-activity#com.example.nikul.myapplication.classWork.classWork6.ClassWork6
+activity#com.example.nikul.myapplication.classWork.classWork3.ClassWork3
 ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:29:9-68
 	android:name
 		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:29:19-66
+activity#com.example.nikul.myapplication.classWork.classWork4.ClassWork4
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:30:9-68
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:30:19-66
+activity#com.example.nikul.myapplication.classWork.classWork5.ClassWork5
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:31:19-66
+activity#com.example.nikul.myapplication.classWork.classWork6.ClassWork6
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:32:9-68
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.example.nikul.myapplication.classWork.classWork7.ClassWork7
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:33:19-66
+activity#com.example.nikul.myapplication.samples.broadcact.BroadcastActivity
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:34:9-72
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:34:19-70
 activity#com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:31:9-65
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:36:9-65
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:31:19-63
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:36:19-63
 activity#com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:32:9-65
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:32:19-63
-activity#com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:33:9-65
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:33:19-63
-activity#com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:34:9-65
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:34:19-63
-activity#com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:35:9-67
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:35:19-65
-activity#com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:36:9-69
-	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:36:19-67
-activity#com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5
 ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:37:9-65
 	android:name
 		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:37:19-63
+activity#com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:38:9-65
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:38:19-63
+activity#com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:39:19-63
+activity#com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:40:9-67
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:40:19-65
+activity#com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:41:9-42:51
+	android:screenOrientation
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:41:19-67
+activity#com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:43:9-65
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:43:19-63
+activity#com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:44:9-65
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:44:19-63
 receiver#com.example.nikul.myapplication.classWork.classWork5.MyReceiver
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:40:9-44:20
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:47:9-51:20
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:40:19-66
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:47:19-66
 intent-filter#android.intent.action.AIRPLANE_MODE
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:41:13-43:29
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:48:13-50:29
 action#android.intent.action.AIRPLANE_MODE
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:49:17-77
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:42:25-75
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:49:25-75
 service#com.example.nikul.myapplication.classWork.classWork5.MyService
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:45:9-66
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:52:9-66
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:45:18-64
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:52:18-64
 service#com.example.nikul.myapplication.classWork.classWork5.MyIntentService
-ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:46:9-72
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:53:9-72
 	android:name
-		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:46:18-70
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:53:18-70
+service#com.example.nikul.myapplication.samples.broadcact.MyServiceActivity
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:54:9-71
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:54:18-69
+service#com.example.nikul.myapplication.homeWork.homeWork5.WifiService
+ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:55:9-66
+	android:name
+		ADDED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:55:18-64
 uses-sdk
 INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\0aa7dd0d909dbfc5222d7c9076f48635\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\0aa7dd0d909dbfc5222d7c9076f48635\AndroidManifest.xml:19:5-43
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:20:5-44
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\9ab3aed0f30a6b926c5a2d53bbffada9\AndroidManifest.xml:20:5-44
@@ -211,7 +244,7 @@ INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 		INJECTED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:23:5-80
-IMPLIED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-49:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\javapvt\androidApp\app\src\main\AndroidManifest.xml:1:1-59:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
 	android:name
 		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\ad8117dcf7cd142c368fc9df5c4f944c\AndroidManifest.xml:23:22-77
 service#com.squareup.leakcanary.internal.HeapAnalyzerService

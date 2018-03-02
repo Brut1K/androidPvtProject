@@ -8,6 +8,8 @@
         android:minSdkVersion="18"
         android:targetSdkVersion="27" />
 
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <!-- To store the heap dumps and leak analysis results. -->
@@ -38,12 +40,16 @@
         <activity android:name="com.example.nikul.myapplication.classWork.classWork4.ClassWork4" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork5.ClassWork5" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork6.ClassWork6" />
+        <activity android:name="com.example.nikul.myapplication.classWork.classWork7.ClassWork7" />
+        <activity android:name="com.example.nikul.myapplication.samples.broadcact.BroadcastActivity" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity" />
-        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity" />
+        <activity
+            android:name="com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity"
+            android:screenOrientation="fullUser" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5" />
 
         <receiver android:name="com.example.nikul.myapplication.classWork.classWork5.MyReceiver" >
@@ -54,6 +60,8 @@
 
         <service android:name="com.example.nikul.myapplication.classWork.classWork5.MyService" />
         <service android:name="com.example.nikul.myapplication.classWork.classWork5.MyIntentService" />
+        <service android:name="com.example.nikul.myapplication.samples.broadcact.MyServiceActivity" />
+        <service android:name="com.example.nikul.myapplication.homeWork.homeWork5.WifiService" />
         <service
             android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
             android:enabled="false"

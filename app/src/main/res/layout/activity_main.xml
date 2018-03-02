@@ -75,13 +75,15 @@
             android:id="@+id/button10"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="homework5" />
+            android:text="homework5"
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button11"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="classwork6" />
+            android:text="classwork6"
+            style="@style/WorkIsDone"/>
 
         <Button
             android:id="@+id/button12"
@@ -100,6 +102,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="homework7" />
+
+        <Button
+            android:id="@+id/buttonBroadcast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Broadcast"/>
 
 
     </LinearLayout>

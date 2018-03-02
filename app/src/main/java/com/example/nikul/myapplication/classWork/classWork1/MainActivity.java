@@ -18,16 +18,15 @@ import com.example.nikul.myapplication.classWork.classWork3.ClassWork3;
 import com.example.nikul.myapplication.classWork.classWork4.ClassWork4;
 import com.example.nikul.myapplication.classWork.classWork5.ClassWork5;
 import com.example.nikul.myapplication.classWork.classWork6.ClassWork6;
+import com.example.nikul.myapplication.classWork.classWork7.ClassWork7;
 import com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1;
 import com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2;
 import com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3;
 import com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4;
 import com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5;
+import com.example.nikul.myapplication.samples.broadcact.BroadcastActivity;
 import com.squareup.leakcanary.LeakCanary;
 
-/**
- * Created by nikul on 05.02.2018.
- */
 
 public class MainActivity extends AppCompatActivity {
 
@@ -43,6 +42,10 @@ public class MainActivity extends AppCompatActivity {
     private Button cw5;
     private Button hw5;
     private Button cw6;
+
+    private Button cw7;
+
+    private Button broadcast;
 
 
 
@@ -65,6 +68,8 @@ public class MainActivity extends AppCompatActivity {
         cw5 = findViewById(R.id.button9);
         hw5 = findViewById(R.id.button10);
         cw6 = findViewById(R.id.button11);
+        cw7 = findViewById(R.id.button13);
+        broadcast = findViewById(R.id.buttonBroadcast);
 
         cw1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -156,6 +161,22 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this,ClassWork6.class);
+                startActivity(intent);
+            }
+        });
+
+        cw7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,ClassWork7.class);
+                startActivity(intent);
+            }
+        });
+
+        broadcast.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, BroadcastActivity.class);
                 startActivity(intent);
             }
         });

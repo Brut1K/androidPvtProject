@@ -63,18 +63,18 @@ public class ClassWork5 extends AppCompatActivity {
         Intent intent = new Intent(this,MyService.class);
         startService(intent);
 
-        Intent intent1 = new Intent(this,MyIntentService.class);
-        intent1.putExtra(MyIntentService.KEY_LINK,"http://file1");
-        startService(intent1);
-
-        Intent intent2 = new Intent(this,MyIntentService.class);
-        intent2.putExtra(MyIntentService.KEY_LINK,"http://file2");
-        startService(intent2);
-
-
-        Intent intent3 = new Intent(this,MyIntentService.class);
-        intent3.putExtra(MyIntentService.KEY_LINK,"http://file3");
-        startService(intent3);
+//        Intent intent1 = new Intent(this,MyIntentService.class);
+//        intent1.putExtra(MyIntentService.KEY_LINK,"http://file1");
+//        startService(intent1);
+//
+//        Intent intent2 = new Intent(this,MyIntentService.class);
+//        intent2.putExtra(MyIntentService.KEY_LINK,"http://file2");
+//        startService(intent2);
+//
+//
+//        Intent intent3 = new Intent(this,MyIntentService.class);
+//        intent3.putExtra(MyIntentService.KEY_LINK,"http://file3");
+//        startService(intent3);
 
 
     }
