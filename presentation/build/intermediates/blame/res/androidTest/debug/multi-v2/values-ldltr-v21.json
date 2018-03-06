@@ -14,21 +14,6 @@
                     }
                 }
             ]
-        },
-        {
-            "outputFile": "D:\\javapvt\\androidApp\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
-                    }
-                }
-            ]
         }
     ]
 }

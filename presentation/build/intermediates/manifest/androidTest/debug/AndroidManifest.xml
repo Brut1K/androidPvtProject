@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.nikul.myapplication.test" >
+    package="com.example.nikul.myapplication.test">
 
-    <uses-sdk
-        android:minSdkVersion="18"
-        android:targetSdkVersion="27" />
-
-    <instrumentation
-        android:name="android.support.test.runner.AndroidJUnitRunner"
-        android:functionalTest="false"
-        android:handleProfiling="false"
-        android:label="Tests for com.example.nikul.myapplication"
-        android:targetPackage="com.example.nikul.myapplication" />
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="27" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="com.example.nikul.myapplication"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.example.nikul.myapplication"/>
 </manifest>

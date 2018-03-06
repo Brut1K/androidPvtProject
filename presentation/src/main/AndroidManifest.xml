@@ -32,6 +32,7 @@
         <activity android:name=".classWork.classWork6.ClassWork6"/>
         <activity android:name=".classWork.classWork7.ClassWork7"/>
         <activity android:name=".samples.broadcact.BroadcastActivity"/>
+        <activity android:name=".classWork.classWork9.ClassWork9"/>
 
         <activity android:name=".homeWork.homeWork1.HomeWork1"/>
         <activity android:name=".homeWork.homeWork2.HomeWork2"/>

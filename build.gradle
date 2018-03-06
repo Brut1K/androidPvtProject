@@ -15,6 +15,38 @@ buildscript {
     }
 }
 
+ext {
+    compileSdkVersion = 27
+    buildToolsSdkVersion = "27.0.2"
+    minSdkVersion = 18
+    targetSdkVersion = 27
+    rxJavaVersion = '2.1.10'
+    androidBindingVersion ='3.0.0'
+
+
+
+    dependencies = [
+            supportAppcompat : "com.android.support:appcompat-v7:$buildToolsSdkVersion",
+            supportV4 : "com.android.support:support-v4:$buildToolsSdkVersion",
+            supportDesign : "com.android.support:design:$buildToolsSdkVersion",
+            androidBindingCompiler: "com.android.databinding:compiler:$androidBindingVersion",
+
+            rxandroid : "io.reactivex.rxjava2:rxandroid:2.0.2",
+            rxjava :  "io.reactivex.rxjava2:rxjava:$rxJavaVersion",
+
+
+
+            jUnit :  "junit:junit:4.12",
+            glide : "com.github.bumptech.glide:glide:4.6.1",
+            glidecompiler : "com.github.bumptech.glide:compiler:4.6.1",
+            leakcanary : "com.squareup.leakcanary:leakcanary-android:1.5.4",
+
+            gson : "com.google.code.gson:gson:2.8.2"
+
+
+    ]
+
+}
 allprojects {
     repositories {
         google()
