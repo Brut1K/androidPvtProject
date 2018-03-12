@@ -43,6 +43,7 @@
             android:screenOrientation="fullUser"/>
         <activity android:name=".homeWork.homeWork5.HomeWork5"/>
         <activity android:name=".homeWork.homeWork6.HomeWork6"/>
+        <activity android:name=".homeWork.homeWork7.HomeWork7"/>
 
 
         <receiver android:name=".classWork.classWork5.MyReceiver">

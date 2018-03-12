@@ -207,38 +207,6 @@
             ]
         },
         {
-            "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,1893",
-                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
-                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,1970"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\27a18698b68369b6b47d6891b6c5ef0a\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1975",
-                        "endColumns": "100",
-                        "endOffsets": "2071"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\values-ml_values-ml.arsc.flat",
             "map": [
                 {
@@ -266,6 +234,38 @@
                         "startOffsets": "105,224,342,457,550,655,787,864,940,1022,1133,1239,1337,1451,1551,1662,1821,1922",
                         "endColumns": "118,117,114,92,104,131,76,75,81,110,105,97,113,99,110,158,100,81",
                         "endOffsets": "219,337,452,545,650,782,859,935,1017,1128,1234,1332,1446,1546,1657,1816,1917,1999"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,335,443,528,629,757,842,924,1006,1113,1213,1312,1420,1527,1634,1793,1893",
+                        "endColumns": "116,112,107,84,100,127,84,81,81,106,99,98,107,106,106,158,99,81",
+                        "endOffsets": "217,330,438,523,624,752,837,919,1001,1108,1208,1307,1415,1522,1629,1788,1888,1970"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\27a18698b68369b6b47d6891b6c5ef0a\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1975",
+                        "endColumns": "100",
+                        "endOffsets": "2071"
                     }
                 }
             ]
@@ -542,21 +542,6 @@
             ]
         },
         {
-            "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\values-am_values-am.arsc.flat",
             "map": [
                 {
@@ -584,6 +569,21 @@
                         "startOffsets": "105,207,306,412,498,601,714,792,870,949,1049,1149,1245,1348,1447,1554,1707,1803",
                         "endColumns": "101,98,105,85,102,112,77,77,78,99,99,95,102,98,106,152,95,78",
                         "endOffsets": "202,301,407,493,596,709,787,865,944,1044,1144,1240,1343,1442,1549,1702,1798,1877"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
                     }
                 }
             ]
