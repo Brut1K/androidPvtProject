@@ -43,6 +43,7 @@
         <activity android:name="com.example.nikul.myapplication.classWork.classWork7.ClassWork7" />
         <activity android:name="com.example.nikul.myapplication.samples.broadcact.BroadcastActivity" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork9.ClassWork9" />
+        <activity android:name="com.example.nikul.myapplication.classWork.classWork10.UserActivity" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3" />
@@ -54,6 +55,7 @@
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7" />
+        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork9.HomeWork9" />
 
         <receiver android:name="com.example.nikul.myapplication.classWork.classWork5.MyReceiver" >
             <intent-filter>

@@ -22,11 +22,11 @@ public final class R {
         public static final int leak_canary_row_time = 0x7f080080;
     }
     public static final class layout {
-        public static final int leak_canary_display_leak = 0x7f0a0041;
-        public static final int leak_canary_heap_dump_toast = 0x7f0a0042;
-        public static final int leak_canary_leak_row = 0x7f0a0043;
-        public static final int leak_canary_ref_row = 0x7f0a0044;
-        public static final int leak_canary_ref_top_row = 0x7f0a0045;
+        public static final int leak_canary_display_leak = 0x7f0a0043;
+        public static final int leak_canary_heap_dump_toast = 0x7f0a0044;
+        public static final int leak_canary_leak_row = 0x7f0a0045;
+        public static final int leak_canary_ref_row = 0x7f0a0046;
+        public static final int leak_canary_ref_top_row = 0x7f0a0047;
     }
     public static final class string {
         public static final int leak_canary_analysis_failed = 0x7f0c0025;

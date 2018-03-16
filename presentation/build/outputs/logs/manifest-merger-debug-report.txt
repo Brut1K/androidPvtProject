@@ -135,6 +135,10 @@ activity#com.example.nikul.myapplication.classWork.classWork9.ClassWork9
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:35:9-68
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:35:19-66
+activity#com.example.nikul.myapplication.classWork.classWork10.UserActivity
+ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:36:9-71
+	android:name
+		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:36:19-69
 activity#com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:37:9-65
 	android:name
@@ -173,6 +177,10 @@ activity#com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:46:9-65
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:46:19-63
+activity#com.example.nikul.myapplication.homeWork.homeWork9.HomeWork9
+ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:47:9-65
+	android:name
+		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:47:19-63
 receiver#com.example.nikul.myapplication.classWork.classWork5.MyReceiver
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:49:9-53:20
 	android:name

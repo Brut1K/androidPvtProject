@@ -33,7 +33,7 @@
         <activity android:name=".classWork.classWork7.ClassWork7"/>
         <activity android:name=".samples.broadcact.BroadcastActivity"/>
         <activity android:name=".classWork.classWork9.ClassWork9"/>
-
+        <activity android:name=".classWork.classWork10.UserActivity"/>
         <activity android:name=".homeWork.homeWork1.HomeWork1"/>
         <activity android:name=".homeWork.homeWork2.HomeWork2"/>
         <activity android:name=".homeWork.homeWork3.HomeWork3"/>
@@ -44,7 +44,7 @@
         <activity android:name=".homeWork.homeWork5.HomeWork5"/>
         <activity android:name=".homeWork.homeWork6.HomeWork6"/>
         <activity android:name=".homeWork.homeWork7.HomeWork7"/>
-
+        <activity android:name=".homeWork.homeWork9.HomeWork9"/>
 
         <receiver android:name=".classWork.classWork5.MyReceiver">
             <intent-filter>

@@ -728,6 +728,10 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\27a18698b68369b6b47d6891b6c5ef0a\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_activity_homework9.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework9.xml"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\9ab3aed0f30a6b926c5a2d53bbffada9\\res\\layout\\design_layout_tab_text.xml"
     },
@@ -1874,6 +1878,10 @@
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_activity_classwork10.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_classwork10.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",

@@ -2,5 +2,13 @@
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_classwork9.xml",
         "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_classwork9.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework9.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework9.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_classwork10.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_classwork10.xml"
     }
 ]

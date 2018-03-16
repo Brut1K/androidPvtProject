@@ -1,6 +1,5 @@
 package com.example.nikul.myapplication.classWork.classWork1;
 
-import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,12 +7,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.nikul.myapplication.R;
+import com.example.nikul.myapplication.classWork.classWork10.UserActivity;
 import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
-import com.example.nikul.myapplication.classWork.classWork2.Singleton;
 import com.example.nikul.myapplication.classWork.classWork3.ClassWork3;
 import com.example.nikul.myapplication.classWork.classWork4.ClassWork4;
 import com.example.nikul.myapplication.classWork.classWork5.ClassWork5;
@@ -27,6 +24,7 @@ import com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4;
 import com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5;
 import com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6;
 import com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7;
+import com.example.nikul.myapplication.homeWork.homeWork9.HomeWork9;
 import com.example.nikul.myapplication.samples.broadcact.BroadcastActivity;
 import com.squareup.leakcanary.LeakCanary;
 
@@ -215,6 +213,20 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this,ClassWork9.class));
+            }
+        });
+
+        hw9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, HomeWork9.class));
+            }
+        });
+
+        cw10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, UserActivity.class));
             }
         });
 

@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="silver">#878d8d</color>
+    <color name="male">#0000ff</color>
+    <color name="female">#FF0000</color>
+    <color name="asd">#754</color>
 </resources>

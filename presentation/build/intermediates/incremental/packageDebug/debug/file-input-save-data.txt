@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 06 00:08:51 MSK 2018
+#Mon Mar 12 20:57:39 MSK 2018
 0.baseType=DIRECTORY
 0.base=D\:\\javapvt\\androidApp\\presentation\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
