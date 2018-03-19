@@ -1340,6 +1340,10 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_activity_homework8.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework8.xml"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_notification.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.4.aar\\ad8117dcf7cd142c368fc9df5c4f944c\\res\\drawable-xhdpi-v4\\leak_canary_notification.png"
     },

@@ -44,6 +44,7 @@
         <activity android:name=".homeWork.homeWork5.HomeWork5"/>
         <activity android:name=".homeWork.homeWork6.HomeWork6"/>
         <activity android:name=".homeWork.homeWork7.HomeWork7"/>
+        <activity android:name=".homeWork.homeWork8.HomeWork8"/>
         <activity android:name=".homeWork.homeWork9.HomeWork9"/>
 
         <receiver android:name=".classWork.classWork5.MyReceiver">

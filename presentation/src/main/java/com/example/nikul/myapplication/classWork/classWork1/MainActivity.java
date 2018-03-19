@@ -24,6 +24,7 @@ import com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4;
 import com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5;
 import com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6;
 import com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7;
+import com.example.nikul.myapplication.homeWork.homeWork8.HomeWork8;
 import com.example.nikul.myapplication.homeWork.homeWork9.HomeWork9;
 import com.example.nikul.myapplication.samples.broadcact.BroadcastActivity;
 import com.squareup.leakcanary.LeakCanary;
@@ -202,6 +203,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, HomeWork7.class));
+            }
+        });
+
+        hw8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,HomeWork8.class));
             }
         });
 

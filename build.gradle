@@ -22,6 +22,7 @@ ext {
     targetSdkVersion = 27
     rxJavaVersion = '2.1.10'
     androidBindingVersion ='3.0.0'
+    archComponents = '1.0.0'
 
 
 
@@ -31,6 +32,8 @@ ext {
             supportDesign : "com.android.support:design:$buildToolsSdkVersion",
             androidBindingCompiler: "com.android.databinding:compiler:$androidBindingVersion",
 
+            archComponentsExtensions:"android.arch.lifecycle:extensions:$archComponents",
+            archComponentsCompiler:  "android.arch.lifecycle:compiler:$archComponents",
             rxandroid : "io.reactivex.rxjava2:rxandroid:2.0.2",
             rxjava :  "io.reactivex.rxjava2:rxjava:$rxJavaVersion",
 

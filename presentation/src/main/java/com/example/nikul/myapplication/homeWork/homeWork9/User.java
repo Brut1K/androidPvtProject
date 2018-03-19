@@ -1,8 +1,13 @@
 package com.example.nikul.myapplication.homeWork.homeWork9;
 
 
+import android.databinding.BindingAdapter;
 import android.databinding.ObservableBoolean;
 import android.databinding.ObservableField;
+import android.graphics.drawable.Drawable;
+import android.widget.ImageView;
+
+import com.bumptech.glide.Glide;
 
 public class User {
     public ObservableField<String> name = new ObservableField<>("");
@@ -48,4 +53,11 @@ public class User {
     public void setImage(ObservableField<String> image) {
         this.image = image;
     }
+
+    @BindingAdapter({"android:src", "bind:error"})
+    public static void loadImage(ImageView view, String url, Drawable error) {
+        Glide.with(view.getContext())
+                .load(url).into(view);
+    }
+
 }

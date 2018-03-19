@@ -95,8 +95,6 @@ public class ClassWork7 extends AppCompatActivity implements PublishContract {
 
     private void showFragment(Fragment fragment){
         FragmentManager fragmentManager = getSupportFragmentManager();
-
-
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
         fragmentTransaction.replace(R.id.container,fragment,fragment.getClass().getSimpleName());
         fragmentTransaction.addToBackStack(fragment.getClass().getSimpleName());

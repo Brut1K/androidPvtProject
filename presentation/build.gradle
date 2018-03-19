@@ -41,6 +41,9 @@ dependencies {
     implementation dependency.glide
     annotationProcessor dependency.glidecompiler
     implementation dependency.leakcanary
+    implementation dependency.archComponentsExtensions
+    annotationProcessor dependency.archComponentsCompiler
+
 
 
     annotationProcessor dependency.androidBindingCompiler
