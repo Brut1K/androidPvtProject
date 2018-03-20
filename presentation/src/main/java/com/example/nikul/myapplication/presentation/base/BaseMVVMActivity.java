@@ -1,10 +1,11 @@
-package com.example.nikul.myapplication.classWork.basepackage;
+package com.example.nikul.myapplication.presentation.base;
 
 import android.databinding.DataBindingUtil;
 import android.databinding.ViewDataBinding;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 
 import com.example.nikul.myapplication.BR;
 
@@ -28,6 +29,8 @@ public abstract class BaseMVVMActivity<
         viewModel = provideViewModel();
         binding = DataBindingUtil.setContentView(this, provideLayoutId());
         binding.setVariable(BR.viewModel,viewModel);
+
+        Log.e("BaseVMactivity",viewModel.toString());
 
     }
 

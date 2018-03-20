@@ -7,6 +7,8 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <application
+
+        android:name=".app.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -33,10 +35,11 @@
         <activity android:name=".classWork.classWork7.ClassWork7"/>
         <activity android:name=".samples.broadcact.BroadcastActivity"/>
         <activity android:name=".classWork.classWork9.ClassWork9"/>
-        <activity android:name=".classWork.classWork10.UserActivity"/>
+        <activity android:name=".presentation.screens.user.UserActivity"/>
         <activity android:name=".homeWork.homeWork1.HomeWork1"/>
         <activity android:name=".homeWork.homeWork2.HomeWork2"/>
         <activity android:name=".homeWork.homeWork3.HomeWork3"/>
+        <activity android:name=".presentation.screens.hw3.Hw3Activity"/>
         <activity android:name=".homeWork.homeWork4.HomeWork4"/>
         <activity android:name=".homeWork.homeWork4.OwlActivity"/>
         <activity android:name=".homeWork.homeWork4.ClockActivity"

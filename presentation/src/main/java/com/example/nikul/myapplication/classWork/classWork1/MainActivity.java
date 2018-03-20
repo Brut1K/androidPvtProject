@@ -9,7 +9,8 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.nikul.myapplication.R;
-import com.example.nikul.myapplication.classWork.classWork10.UserActivity;
+import com.example.nikul.myapplication.presentation.screens.hw3.Hw3Activity;
+import com.example.nikul.myapplication.presentation.screens.user.UserActivity;
 import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
 import com.example.nikul.myapplication.classWork.classWork3.ClassWork3;
 import com.example.nikul.myapplication.classWork.classWork4.ClassWork4;
@@ -137,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
         hw3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, HomeWork3.class);
+                Intent intent = new Intent(MainActivity.this, Hw3Activity.class);
                 startActivity(intent);
             }
         });

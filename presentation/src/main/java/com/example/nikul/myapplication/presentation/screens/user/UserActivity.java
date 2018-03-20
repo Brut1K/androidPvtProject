@@ -1,4 +1,4 @@
-package com.example.nikul.myapplication.classWork.classWork10;
+package com.example.nikul.myapplication.presentation.screens.user;
 
 
 
@@ -6,7 +6,7 @@ import android.arch.lifecycle.ViewModelProviders;
 
 import com.example.nikul.myapplication.R;
 
-import com.example.nikul.myapplication.classWork.basepackage.BaseMVVMActivity;
+import com.example.nikul.myapplication.presentation.base.BaseMVVMActivity;
 import com.example.nikul.myapplication.databinding.ActivityClasswork10Binding;
 
 

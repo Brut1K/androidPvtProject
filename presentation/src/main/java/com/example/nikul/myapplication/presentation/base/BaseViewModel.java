@@ -1,14 +1,19 @@
-package com.example.nikul.myapplication.classWork.basepackage;
+package com.example.nikul.myapplication.presentation.base;
 
 
 import android.arch.lifecycle.ViewModel;
 
 import io.reactivex.disposables.CompositeDisposable;
 
-public class BaseViewModel extends ViewModel {
+public abstract class BaseViewModel extends ViewModel {
 
     protected CompositeDisposable compositeDisposable = new CompositeDisposable();
 
+    public abstract  void createInject();
+
+//    public BaseViewModel() {
+//        createInject();
+//    }
 
     public void onStart() {
 

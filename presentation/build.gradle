@@ -43,7 +43,8 @@ dependencies {
     implementation dependency.leakcanary
     implementation dependency.archComponentsExtensions
     annotationProcessor dependency.archComponentsCompiler
-
+    implementation dependency.dagger
+    annotationProcessor dependency.daggerCompiler
 
 
     annotationProcessor dependency.androidBindingCompiler

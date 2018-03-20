@@ -19,5 +19,7 @@ android {
 dependencies {
     def dependency = rootProject.ext.dependencies
     api dependency.gson
+    implementation dependency.javaxInject
+    api dependency.retrofit
     api project(path: ':domain')
 }

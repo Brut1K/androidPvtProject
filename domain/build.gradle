@@ -19,4 +19,5 @@ android {
 dependencies {
     def dependency = rootProject.ext.dependencies
     api dependency.rxjava
+    implementation dependency.javaxInject
 }

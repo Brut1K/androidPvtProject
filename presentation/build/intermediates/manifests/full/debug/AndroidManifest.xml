@@ -17,6 +17,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
+        android:name="com.example.nikul.myapplication.app.App"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
@@ -43,10 +44,11 @@
         <activity android:name="com.example.nikul.myapplication.classWork.classWork7.ClassWork7" />
         <activity android:name="com.example.nikul.myapplication.samples.broadcact.BroadcastActivity" />
         <activity android:name="com.example.nikul.myapplication.classWork.classWork9.ClassWork9" />
-        <activity android:name="com.example.nikul.myapplication.classWork.classWork10.UserActivity" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.user.UserActivity" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.hw3.Hw3Activity" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity" />
         <activity

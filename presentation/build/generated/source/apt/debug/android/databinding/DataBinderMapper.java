@@ -7,6 +7,8 @@ class DataBinderMapper  {
     }
     public android.databinding.ViewDataBinding getDataBinder(android.databinding.DataBindingComponent bindingComponent, android.view.View view, int layoutId) {
         switch(layoutId) {
+                case com.example.nikul.myapplication.R.layout.activity_homework3:
+                    return com.example.nikul.myapplication.databinding.ActivityHomework3Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_classwork9:
                     return com.example.nikul.myapplication.databinding.ActivityClasswork9Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_homework9:
@@ -27,6 +29,12 @@ class DataBinderMapper  {
         }
         final int code = tag.hashCode();
         switch(code) {
+            case -409417399: {
+                if(tag.equals("layout/activity_homework3_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_homework3;
+                }
+                break;
+            }
             case -776929652: {
                 if(tag.equals("layout/activity_classwork9_0")) {
                     return com.example.nikul.myapplication.R.layout.activity_classwork9;
@@ -57,8 +65,10 @@ class DataBinderMapper  {
     private static class InnerBrLookup {
         static String[] sKeys = new String[]{
             "_all"
+            ,"hw3ViewModel"
             ,"myEntity"
             ,"myUser"
+            ,"name"
             ,"viewModel"};
     }
 }

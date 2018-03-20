@@ -5,15 +5,16 @@ import com.example.domain.executor.PostExecutionThread;
 import com.example.domain.executor.ThreadExecutor;
 import com.example.domain.repository.UserRepository;
 
-
-
+import javax.inject.Inject;
+import javax.inject.Named;
 
 
 public class GetUserByIdUseCase extends BaseUseCase{
     private UserRepository userRepository;
 
-
-    public GetUserByIdUseCase(PostExecutionThread postExecutionThread, UserRepository userRepository) {
+    //Inject пишем перед конструктором, пометка для дагера
+    @Inject
+    public GetUserByIdUseCase(PostExecutionThread postExecutionThread, @Named("rep2") UserRepository userRepository) {
         super(postExecutionThread);
         this.userRepository = userRepository;
     }

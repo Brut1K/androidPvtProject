@@ -7,7 +7,7 @@
         <import type="java.lang.String"/>
         <variable
             name="viewModel"
-            type="com.example.nikul.myapplication.classWork.classWork10.UserViewModel"/>
+            type="com.example.nikul.myapplication.presentation.screens.user.UserViewModel"/>
     </data>
 
 
