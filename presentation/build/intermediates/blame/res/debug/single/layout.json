@@ -4,8 +4,16 @@
         "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_classwork9.xml"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_userrecycler.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\item_userrecycler.xml"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework9.xml",
         "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework9.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework1.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework1.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework3.xml",

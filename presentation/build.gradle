@@ -45,9 +45,11 @@ dependencies {
     annotationProcessor dependency.archComponentsCompiler
     implementation dependency.dagger
     annotationProcessor dependency.daggerCompiler
-
+    implementation dependency.retrofitRxAdapter
 
     annotationProcessor dependency.androidBindingCompiler
+
+    implementation "com.squareup.retrofit2:converter-gson:2.4.0"
 
     api project(path: ':data')
 

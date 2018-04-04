@@ -11,9 +11,9 @@ public abstract class BaseViewModel extends ViewModel {
 
     public abstract  void createInject();
 
-//    public BaseViewModel() {
-//        createInject();
-//    }
+    public BaseViewModel() {
+        createInject();
+    }
 
     public void onStart() {
 

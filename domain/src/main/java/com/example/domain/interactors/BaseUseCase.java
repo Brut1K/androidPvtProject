@@ -1,5 +1,7 @@
 package com.example.domain.interactors;
 
+import android.util.Log;
+
 import com.example.domain.executor.PostExecutionThread;
 import com.example.domain.executor.ThreadExecutor;
 
@@ -16,8 +18,10 @@ public abstract class BaseUseCase {
     protected Scheduler threadExecution;
 
     public BaseUseCase(PostExecutionThread postExecutionThread) {
+        Log.e("super.BaseUseCase","create");
         this.postExecutionThread = postExecutionThread.getScheduler();
         this.threadExecution = Schedulers.io();
+        Log.e("super.BaseUseCase","finish");
     }
 
     public BaseUseCase(PostExecutionThread postExecutionThread, ThreadExecutor threadExecution) {

@@ -264,6 +264,10 @@
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_activity_homewrok12.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homewrok12.xml"
+    },
+    {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable_sova_animation.xml.flat",
         "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\drawable\\sova_animation.xml"
     },
@@ -678,6 +682,10 @@
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_item_userrecycler.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\item_userrecycler.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -1670,6 +1678,10 @@
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\layout_item_userentity.xml.flat",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\item_userentity.xml"
     },
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",

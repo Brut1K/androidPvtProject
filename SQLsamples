@@ -1,0 +1,25 @@
+
+
+
+
+SELECT * FROM user  - извлекаем все(все поля *) данные из таблицы user
+SELECT * FROM user WHERE age >= 30 - извлекаем юзеров у которых возраст больше 30
+SELECT * FROM user WHERE age >= 30 AND age < 100
+
+совмещает две таблицы в один результат по ключевому полю, то что не совмещается будет удалено
+SELECT * FROM user INNER JOIN country ON user.idCountry = country.id
+
+совмещает две таблицы в один результат по ключевому полю, в левой таблице будут данные, в правой null
+Всё слева и справа что совпало
+SELECT * FROM user LEFT JOIN country ON user.idCountry = country.id
+
+совмещает две таблицы в один результат по ключевому полю, в правой таблице будут данные, в левой null
+Все справа и слева что совпало
+SELECT * FROM user RIGHT JOIN country ON user.idCountry = country.id
+
+                            ORDER age(сортировка по полю)
+                            LIMIT 100(вернёт 100 элементов)
+
+INSERT INTO user = "asdasd",age =17
+UPDATE user = "33",age =17 WHERE id=10
+CREATE TABLE asdassd

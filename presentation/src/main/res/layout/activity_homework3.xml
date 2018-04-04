@@ -6,7 +6,7 @@
 
         <import type="android.view.View" />
         <variable
-            name="hw3ViewModel"
+            name="viewModel"
             type="com.example.nikul.myapplication.presentation.screens.hw3.Hw3ViewModel" />
     </data>
 
@@ -28,14 +28,15 @@
                 android:focusedByDefault="true"
                 android:hint="http:\\"
                 android:inputType="textUri"
-                android:text="@{hw3ViewModel.editText}" />
+                android:text="@{viewModel.editText}" />
 
             <Button
                 android:id="@+id/downloadbutton"
                 android:layout_width="0dp"
                 android:layout_height="50dp"
                 android:layout_weight="1"
-                android:text="@{hw3ViewModel.buttonName}" />
+                android:text="@{viewModel.buttonName}"
+                android:onClick="@{viewModel::changeURL}"/>
 
         </LinearLayout>
 
@@ -45,14 +46,14 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:background="#50c2bb"
-            android:text="@{hw3ViewModel.textView}" />
+            android:text="@{viewModel.textView}" />
 
         <ImageView
             android:id="@+id/image333"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#333"
-            android:src="@{hw3ViewModel.imageViewUrl}"
+            android:src="@{viewModel.imageViewUrl}"
             bind:error="@{@drawable/sova_animation}" />
 
 

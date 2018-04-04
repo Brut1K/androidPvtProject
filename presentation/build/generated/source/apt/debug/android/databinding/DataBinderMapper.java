@@ -7,6 +7,10 @@ class DataBinderMapper  {
     }
     public android.databinding.ViewDataBinding getDataBinder(android.databinding.DataBindingComponent bindingComponent, android.view.View view, int layoutId) {
         switch(layoutId) {
+                case com.example.nikul.myapplication.R.layout.item_userrecycler:
+                    return com.example.nikul.myapplication.databinding.ItemUserrecyclerBinding.bind(view, bindingComponent);
+                case com.example.nikul.myapplication.R.layout.activity_homework1:
+                    return com.example.nikul.myapplication.databinding.ActivityHomework1Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_homework3:
                     return com.example.nikul.myapplication.databinding.ActivityHomework3Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_classwork9:
@@ -29,6 +33,18 @@ class DataBinderMapper  {
         }
         final int code = tag.hashCode();
         switch(code) {
+            case 1522133634: {
+                if(tag.equals("layout/item_userrecycler_0")) {
+                    return com.example.nikul.myapplication.R.layout.item_userrecycler;
+                }
+                break;
+            }
+            case -409419321: {
+                if(tag.equals("layout/activity_homework1_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_homework1;
+                }
+                break;
+            }
             case -409417399: {
                 if(tag.equals("layout/activity_homework3_0")) {
                     return com.example.nikul.myapplication.R.layout.activity_homework3;
@@ -65,7 +81,6 @@ class DataBinderMapper  {
     private static class InnerBrLookup {
         static String[] sKeys = new String[]{
             "_all"
-            ,"hw3ViewModel"
             ,"myEntity"
             ,"myUser"
             ,"name"

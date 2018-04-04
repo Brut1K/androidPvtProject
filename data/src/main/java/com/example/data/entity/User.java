@@ -1,13 +1,25 @@
 package com.example.data.entity;
 
 
+import android.arch.persistence.room.ColumnInfo;
+import android.arch.persistence.room.Entity;
+import android.arch.persistence.room.PrimaryKey;
+import android.support.annotation.NonNull;
 
+@Entity(tableName = "User")
 public class User {
 
     private String profileUrl;
     private int age;
-    private String objectId;
     private String username;
+
+    //для рума надо пометить главное уникальное поле
+    @PrimaryKey
+    @NonNull
+    //в базе данных это поле будет хранится в колонке id
+    @ColumnInfo(name = "id")
+    private String objectId;
+
 
     public String getProfileUrl() {
         return profileUrl;

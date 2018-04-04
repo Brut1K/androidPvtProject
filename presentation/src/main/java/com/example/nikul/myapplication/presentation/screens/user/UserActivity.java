@@ -3,6 +3,9 @@ package com.example.nikul.myapplication.presentation.screens.user;
 
 
 import android.arch.lifecycle.ViewModelProviders;
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.v7.widget.LinearLayoutManager;
 
 import com.example.nikul.myapplication.R;
 
@@ -27,6 +30,12 @@ public class UserActivity extends BaseMVVMActivity<ActivityClasswork10Binding, U
     }
 
 
-
-
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        binding.recyclerviewCW10.setLayoutManager(new LinearLayoutManager(this));
+        binding.recyclerviewCW10.setHasFixedSize(true);
+        binding.recyclerviewCW10.setAdapter(viewModel.userAdapter);
+        
+    }
 }

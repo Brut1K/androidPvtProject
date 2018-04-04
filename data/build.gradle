@@ -21,5 +21,11 @@ dependencies {
     api dependency.gson
     implementation dependency.javaxInject
     api dependency.retrofit
+    api dependency.room
+    annotationProcessor dependency.roomCompiler
+    api dependency.roomtoRX
+    api dependency.okhttp
+    api dependency.okHttpLogging
+
     api project(path: ':domain')
 }

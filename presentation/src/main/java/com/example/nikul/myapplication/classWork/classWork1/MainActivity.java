@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.nikul.myapplication.R;
+import com.example.nikul.myapplication.presentation.screens.hw1.Hw1Activity;
 import com.example.nikul.myapplication.presentation.screens.hw3.Hw3Activity;
 import com.example.nikul.myapplication.presentation.screens.user.UserActivity;
 import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
@@ -18,9 +19,7 @@ import com.example.nikul.myapplication.classWork.classWork5.ClassWork5;
 import com.example.nikul.myapplication.classWork.classWork6.ClassWork6;
 import com.example.nikul.myapplication.classWork.classWork7.ClassWork7;
 import com.example.nikul.myapplication.classWork.classWork9.ClassWork9;
-import com.example.nikul.myapplication.homeWork.homeWork1.HomeWork1;
 import com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2;
-import com.example.nikul.myapplication.homeWork.homeWork3.HomeWork3;
 import com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4;
 import com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5;
 import com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6;
@@ -106,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
         hw1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, HomeWork1.class);
+                Intent intent = new Intent(MainActivity.this, Hw1Activity.class);
                 startActivity(intent);
                 setAnimation();
             }

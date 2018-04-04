@@ -1,14 +1,14 @@
 package com.example.nikul.myapplication.presentation.screens.hw3;
 
 import android.databinding.BindingAdapter;
-import android.databinding.ObservableField;
-import android.graphics.drawable.Drawable;
-import android.util.Log;
-import android.widget.ImageView;
-
-import com.bumptech.glide.Glide;
+import com.example.nikul.myapplication.BuildConfig;
 import com.example.nikul.myapplication.presentation.base.BaseViewModel;
 
+import android.databinding.ObservableField;
+import android.graphics.drawable.Drawable;
+import android.view.View;
+import android.widget.ImageView;
+import com.bumptech.glide.Glide;
 
 
 public class Hw3ViewModel extends BaseViewModel {
@@ -25,11 +25,10 @@ public class Hw3ViewModel extends BaseViewModel {
 
 
     public Hw3ViewModel() {
-        Log.e("AAA","create HW3ViewModel");
-        editText.set("asd");
+        editText.set("");
         buttonName.set("Загрузить");
         textView.set("defaultText");
-        imageViewUrl.set("https://pp.userapi.com/c10611/u14788377/-6/y_7fdf5e4c.jpg");
+        imageViewUrl.set("");
     }
 
     @Override
@@ -47,4 +46,12 @@ public class Hw3ViewModel extends BaseViewModel {
         Glide.with(view.getContext())
                 .load(url).into(view);
     }
+
+
+    public void changeURL(View view){
+        imageViewUrl.set("https://pp.userapi.com/c10611/u14788377/-6/y_7fdf5e4c.jpg");
+        textView.set(BuildConfig.API_ENDPOINT);
+    }
+
+
 }

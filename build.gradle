@@ -26,6 +26,8 @@ ext {
     daggerVersion = '2.15'
     javaInjectVersion ='1'
     retrofitVersion = '2.4.0'
+    okHttpVersion = '3.10.0'
+    roomVersion = '1.0.0'
 
 
 
@@ -43,7 +45,17 @@ ext {
             daggerCompiler:  "com.google.dagger:dagger-compiler:$daggerVersion",
             javaxInject: "javax.inject:javax.inject:${javaInjectVersion}",
 
+
+
+            room : "android.arch.persistence.room:runtime:$roomVersion" ,
+            roomCompiler : "android.arch.persistence.room:compiler:$roomVersion" ,
+
+            roomtoRX: "android.arch.persistence.room:rxjava2:$roomVersion",
+
             retrofit: "com.squareup.retrofit2:retrofit:$retrofitVersion",
+            retrofitRxAdapter :"com.squareup.retrofit2:adapter-rxjava2:$retrofitVersion",
+            okhttp: "com.squareup.okhttp3:okhttp:$okHttpVersion",
+            okHttpLogging: "com.squareup.okhttp3:logging-interceptor:$okHttpVersion",
             jUnit :  "junit:junit:4.12",
             glide : "com.github.bumptech.glide:glide:4.6.1",
             glidecompiler : "com.github.bumptech.glide:compiler:4.6.1",
