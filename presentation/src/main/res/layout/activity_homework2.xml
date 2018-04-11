@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="viewModel"
+            type="com.example.nikul.myapplication.presentation.screens.hw2.Hw2ViewModel"/>
+    </data>
+<ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#7295ff"
@@ -221,3 +227,4 @@
         -->
     </LinearLayout>
 </ScrollView>
+</layout>

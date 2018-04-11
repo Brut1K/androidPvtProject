@@ -2,7 +2,6 @@ package com.example.domain.interactors;
 
 import android.util.Log;
 
-import com.example.domain.entity.DataEntity;
 import com.example.domain.entity.UserEntity;
 import com.example.domain.executor.PostExecutionThread;
 import com.example.domain.executor.ThreadExecutor;
@@ -44,11 +43,6 @@ public class GetUserByIdUseCase extends BaseUseCase{
                 .observeOn(postExecutionThread);
     }
 
-    public Observable<List<DataEntity>> loadtrends(){
-        Log.e("TrendsUseCase","loadTrends");
-        return userRepository.loadTrends()
-                .subscribeOn(threadExecution)
-                .observeOn(postExecutionThread);
-    }
+
 
 }

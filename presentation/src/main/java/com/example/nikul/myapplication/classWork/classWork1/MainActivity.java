@@ -10,7 +10,10 @@ import android.widget.Button;
 
 import com.example.nikul.myapplication.R;
 import com.example.nikul.myapplication.presentation.screens.hw1.Hw1Activity;
+import com.example.nikul.myapplication.presentation.screens.hw2.Hw2Activity;
 import com.example.nikul.myapplication.presentation.screens.hw3.Hw3Activity;
+import com.example.nikul.myapplication.presentation.screens.hw4.Hw4Activity;
+import com.example.nikul.myapplication.presentation.screens.hw5.Hw5Activity;
 import com.example.nikul.myapplication.presentation.screens.user.UserActivity;
 import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
 import com.example.nikul.myapplication.classWork.classWork3.ClassWork3;
@@ -19,8 +22,6 @@ import com.example.nikul.myapplication.classWork.classWork5.ClassWork5;
 import com.example.nikul.myapplication.classWork.classWork6.ClassWork6;
 import com.example.nikul.myapplication.classWork.classWork7.ClassWork7;
 import com.example.nikul.myapplication.classWork.classWork9.ClassWork9;
-import com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2;
-import com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4;
 import com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5;
 import com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6;
 import com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7;
@@ -121,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
         hw2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, HomeWork2.class);
+                Intent intent = new Intent(MainActivity.this, Hw2Activity.class);
                 startActivity(intent);
             }
         });
@@ -152,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
         hw4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, HomeWork4.class);
+                Intent intent = new Intent(MainActivity.this, Hw4Activity.class);
                 startActivity(intent);
                 setAnimation();
             }
@@ -170,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
         hw5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, HomeWork5.class);
+                Intent intent = new Intent(MainActivity.this,Hw5Activity.class);
                 startActivity(intent);
                 setAnimation();
             }

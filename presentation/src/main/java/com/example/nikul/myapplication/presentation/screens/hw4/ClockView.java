@@ -1,24 +1,17 @@
-package com.example.nikul.myapplication.homeWork.homeWork4;
+package com.example.nikul.myapplication.presentation.screens.hw4;
 
 import android.content.Context;
-import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import android.graphics.Picture;
 import android.os.Build;
 import android.support.annotation.Nullable;
 import android.support.annotation.RequiresApi;
 import android.util.AttributeSet;
 import android.util.Log;
-import android.util.TimeUtils;
 import android.view.View;
 
-import com.example.nikul.myapplication.R;
-
-import java.util.Date;
 import java.util.GregorianCalendar;
-import java.util.Timer;
 
 /**
  * Created by nikul on 19.02.2018.

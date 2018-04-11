@@ -28,6 +28,7 @@ ext {
     retrofitVersion = '2.4.0'
     okHttpVersion = '3.10.0'
     roomVersion = '1.0.0'
+    constraintLayoutVersion = '1.0.2'
 
 
 
@@ -61,7 +62,8 @@ ext {
             glidecompiler : "com.github.bumptech.glide:compiler:4.6.1",
             leakcanary : "com.squareup.leakcanary:leakcanary-android:1.5.4",
 
-            gson : "com.google.code.gson:gson:2.8.2"
+            gson : "com.google.code.gson:gson:2.8.2",
+            constraintLayout:  "com.android.support.constraint:constraint-layout:$constraintLayoutVersion"
 
 
     ]

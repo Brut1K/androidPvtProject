@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="viewModel"
+            type="com.example.nikul.myapplication.presentation.screens.hw4.OwlViewModel"/>
+    </data>
+<LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
     <Button
+        style="@style/ButtonStyle"
         android:id="@+id/startAnimationOwl"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Start animation"
-        style="@style/ButtonStyle"/>
+        android:text="@{viewModel.button}"
+        android:onClick="@{viewModel::onClick}"
+        />
 
     <ImageView
         android:id="@+id/owlImageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/silver"/>
+        />
 
 
 
 </LinearLayout>
+
+</layout>

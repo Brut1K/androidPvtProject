@@ -8,6 +8,7 @@ import android.databinding.Observable;
 import android.databinding.ObservableBoolean;
 import android.databinding.ObservableField;
 import android.graphics.drawable.Drawable;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
@@ -78,11 +79,6 @@ public class User extends BaseObservable{
         this.image = image;
     }
 
-    @BindingAdapter({"android:src", "bind:error"})
-    public static void loadImage(ImageView view, String url, Drawable error) {
-        Glide.with(view.getContext())
-                .load(url).into(view);
-    }
 
 
 

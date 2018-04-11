@@ -12,9 +12,7 @@ import android.widget.TextView;
 import com.example.nikul.myapplication.R;
 import com.example.nikul.myapplication.classWork.classWork2.ClassWork2;
 
-/**
- * Created by nikul on 10.02.2018.
- */
+
 
 public class ClassWork1 extends Activity implements View.OnClickListener{
 

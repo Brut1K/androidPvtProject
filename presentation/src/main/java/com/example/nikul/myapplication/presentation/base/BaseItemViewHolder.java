@@ -4,7 +4,6 @@ package com.example.nikul.myapplication.presentation.base;
 import android.databinding.ViewDataBinding;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
-
 import com.android.databinding.library.baseAdapters.BR;
 
 public abstract class BaseItemViewHolder<Model,

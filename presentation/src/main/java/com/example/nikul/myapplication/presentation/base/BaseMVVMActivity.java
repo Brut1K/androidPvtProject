@@ -18,10 +18,13 @@ public abstract class BaseMVVMActivity<
 
     protected Binding binding;
     protected ViewModel viewModel ;
+    @Nullable
+
 
 
     public abstract int provideLayoutId();
     public abstract ViewModel   provideViewModel();
+
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -30,7 +33,9 @@ public abstract class BaseMVVMActivity<
         binding = DataBindingUtil.setContentView(this, provideLayoutId());
         binding.setVariable(BR.viewModel,viewModel);
 
-        Log.e("BaseVMactivity",viewModel.toString());
+
+
+        Log.e("BaseMVVMActivity",viewModel.toString());
 
     }
 
@@ -56,5 +61,12 @@ public abstract class BaseMVVMActivity<
     protected void onStop() {
         super.onStop();
         viewModel.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+        viewModel.detachRouter();
     }
 }

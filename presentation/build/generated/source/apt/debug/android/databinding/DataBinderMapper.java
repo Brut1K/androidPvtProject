@@ -13,12 +13,22 @@ class DataBinderMapper  {
                     return com.example.nikul.myapplication.databinding.ActivityHomework1Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_homework3:
                     return com.example.nikul.myapplication.databinding.ActivityHomework3Binding.bind(view, bindingComponent);
+                case com.example.nikul.myapplication.R.layout.activity_homework2:
+                    return com.example.nikul.myapplication.databinding.ActivityHomework2Binding.bind(view, bindingComponent);
+                case com.example.nikul.myapplication.R.layout.activity_homework5:
+                    return com.example.nikul.myapplication.databinding.ActivityHomework5Binding.bind(view, bindingComponent);
+                case com.example.nikul.myapplication.R.layout.activity_homework4:
+                    return com.example.nikul.myapplication.databinding.ActivityHomework4Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_classwork9:
                     return com.example.nikul.myapplication.databinding.ActivityClasswork9Binding.bind(view, bindingComponent);
+                case com.example.nikul.myapplication.R.layout.activity_clock:
+                    return com.example.nikul.myapplication.databinding.ActivityClockBinding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_homework9:
                     return com.example.nikul.myapplication.databinding.ActivityHomework9Binding.bind(view, bindingComponent);
                 case com.example.nikul.myapplication.R.layout.activity_classwork10:
                     return com.example.nikul.myapplication.databinding.ActivityClasswork10Binding.bind(view, bindingComponent);
+                case com.example.nikul.myapplication.R.layout.activity_owl:
+                    return com.example.nikul.myapplication.databinding.ActivityOwlBinding.bind(view, bindingComponent);
         }
         return null;
     }
@@ -51,9 +61,33 @@ class DataBinderMapper  {
                 }
                 break;
             }
+            case -409418360: {
+                if(tag.equals("layout/activity_homework2_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_homework2;
+                }
+                break;
+            }
+            case -409415477: {
+                if(tag.equals("layout/activity_homework5_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_homework5;
+                }
+                break;
+            }
+            case -409416438: {
+                if(tag.equals("layout/activity_homework4_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_homework4;
+                }
+                break;
+            }
             case -776929652: {
                 if(tag.equals("layout/activity_classwork9_0")) {
                     return com.example.nikul.myapplication.R.layout.activity_classwork9;
+                }
+                break;
+            }
+            case 286488404: {
+                if(tag.equals("layout/activity_clock_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_clock;
                 }
                 break;
             }
@@ -66,6 +100,12 @@ class DataBinderMapper  {
             case 1684702574: {
                 if(tag.equals("layout/activity_classwork10_0")) {
                     return com.example.nikul.myapplication.R.layout.activity_classwork10;
+                }
+                break;
+            }
+            case -1646393718: {
+                if(tag.equals("layout/activity_owl_0")) {
+                    return com.example.nikul.myapplication.R.layout.activity_owl;
                 }
                 break;
             }

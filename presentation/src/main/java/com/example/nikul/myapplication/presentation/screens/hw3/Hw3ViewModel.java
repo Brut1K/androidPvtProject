@@ -41,11 +41,6 @@ public class Hw3ViewModel extends BaseViewModel {
                 '}';
     }
 
-    @BindingAdapter({"android:src", "bind:error"})
-    public static void loadImage(ImageView view, String url, Drawable error) {
-        Glide.with(view.getContext())
-                .load(url).into(view);
-    }
 
 
     public void changeURL(View view){

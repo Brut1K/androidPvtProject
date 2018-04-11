@@ -22,5 +22,25 @@
     {
         "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_classwork10.xml",
         "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_classwork10.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_owl.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_owl.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework5.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework5.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_clock.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_clock.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework4.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework4.xml"
+    },
+    {
+        "merged": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homework2.xml",
+        "source": "D:\\javapvt\\androidApp\\presentation\\src\\main\\res\\layout\\activity_homework2.xml"
     }
 ]

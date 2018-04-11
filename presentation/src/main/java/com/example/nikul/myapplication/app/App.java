@@ -5,6 +5,7 @@ import android.app.Application;
 import com.example.nikul.myapplication.injection.AppComponent;
 import com.example.nikul.myapplication.injection.AppModule;
 import com.example.nikul.myapplication.injection.DaggerAppComponent;
+
 //запускается при старте приложения, прописан в манифесте
 
 public class App extends Application {

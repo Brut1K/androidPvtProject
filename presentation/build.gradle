@@ -46,6 +46,7 @@ dependencies {
     implementation dependency.dagger
     annotationProcessor dependency.daggerCompiler
     implementation dependency.retrofitRxAdapter
+    implementation dependency.constraintLayout
 
     annotationProcessor dependency.androidBindingCompiler
 

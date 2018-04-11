@@ -46,14 +46,12 @@
         <activity android:name="com.example.nikul.myapplication.classWork.classWork9.ClassWork9" />
         <activity android:name="com.example.nikul.myapplication.presentation.screens.user.UserActivity" />
         <activity android:name="com.example.nikul.myapplication.presentation.screens.hw1.Hw1Activity" />
-        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork2.HomeWork2" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.hw2.Hw2Activity" />
         <activity android:name="com.example.nikul.myapplication.presentation.screens.hw3.Hw3Activity" />
-        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.HomeWork4" />
-        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork4.OwlActivity" />
-        <activity
-            android:name="com.example.nikul.myapplication.homeWork.homeWork4.ClockActivity"
-            android:screenOrientation="fullUser" />
-        <activity android:name="com.example.nikul.myapplication.homeWork.homeWork5.HomeWork5" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.hw4.Hw4Activity" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.hw4.OwlActivity" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.hw4.ClockActivity" />
+        <activity android:name="com.example.nikul.myapplication.presentation.screens.hw5.Hw5Activity" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork6.HomeWork6" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7" />
         <activity android:name="com.example.nikul.myapplication.homeWork.homeWork8.HomeWork8" />

@@ -11,6 +11,7 @@ import android.util.Log;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.RequestBuilder;
 import com.example.data.entity.Error;
 import com.example.data.entity.ErrorType;
 import com.example.domain.entity.UserEntity;
@@ -28,7 +29,7 @@ import javax.inject.Inject;
 import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 
-public class UserViewModel extends BaseViewModel {
+public class UserViewModel extends BaseViewModel<UserRouter> {
 
 
 
@@ -55,6 +56,9 @@ public class UserViewModel extends BaseViewModel {
     public UserViewModel() {
 
         super();
+        if(router!=null){
+            router.navigateToUser("asd");
+        }
         userAdapter.observeClick().subscribeActual(new Observer<BaseAdapter.ItemEntity>() {
             @Override
             public void onSubscribe(Disposable d) {
@@ -77,7 +81,6 @@ public class UserViewModel extends BaseViewModel {
             }
         });
         progressVisible.set(false);
-        getUserByIdUseCase.loadtrends().subscribe();
 //        getUserByIdUseCase.get().subscribe(new Observer<List<UserEntity>>() {
 //            @Override
 //            public void onSubscribe(Disposable d) {
@@ -158,8 +161,12 @@ public class UserViewModel extends BaseViewModel {
 
     @BindingAdapter({"android:src", "bind:error"})
     public static void loadImage(ImageView view, String url, Drawable error) {
-        Glide.with(view.getContext())
-                .load(url).into(view);
+
+            Log.e("aaa","try");
+            Glide.with(view.getContext())
+                    .load(url).error(Glide.with(view.getContext()).load(error))
+                    .into(view);
+
     }
 
 }
