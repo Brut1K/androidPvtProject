@@ -5,9 +5,14 @@ buildscript {
     repositories {
         google()
         jcenter()
+        maven { url 'https://maven.fabric.io/public' }
+
+
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'io.fabric.tools:gradle:1.+'
+
         
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -29,6 +34,7 @@ ext {
     okHttpVersion = '3.10.0'
     roomVersion = '1.0.0'
     constraintLayoutVersion = '1.0.2'
+    rxPermissionVersion = '0.9.5@aar'
 
 
 
@@ -45,6 +51,7 @@ ext {
             dagger: "com.google.dagger:dagger:$daggerVersion",
             daggerCompiler:  "com.google.dagger:dagger-compiler:$daggerVersion",
             javaxInject: "javax.inject:javax.inject:${javaInjectVersion}",
+            rxPermission: "com.tbruyelle.rxpermissions2:rxpermissions:$rxPermissionVersion",
 
 
 
@@ -75,6 +82,16 @@ allprojects {
         jcenter()
     }
 }
+
+//task qaToFabric(dependsOn:"assembleRelease"){
+//    def groupName = "qa-testgroup"
+//    def releaseNotes = ""
+//    def task = tasks.getByName("crashlyticsUploadDistributionRelease")
+//
+//    task.ext.betaDistributionReleaseNotes = releaseNotes
+//    task.ext.betaDistributionGroupAliases = groupName
+//    task.execute()
+//}
 
 task clean(type: Delete) {
     delete rootProject.buildDir

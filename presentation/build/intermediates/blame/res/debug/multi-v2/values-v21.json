@@ -4,7 +4,26 @@
             "outputFile": "D:\\javapvt\\androidApp\\presentation\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\27a18698b68369b6b47d6891b6c5ef0a\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.4.aar\\abecf5f81b629ce7d8e4b234c72c44d9\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "140"
+                    },
+                    "to": {
+                        "startLines": "291",
+                        "startColumns": "4",
+                        "startOffsets": "21245",
+                        "endLines": "292",
+                        "endColumns": "10",
+                        "endOffsets": "21330"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\222c5a58e7b3e49149641b11886af165\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,26 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\9ab3aed0f30a6b926c5a2d53bbffada9\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,266",
-                        "endLines": "4,5",
-                        "endColumns": "12,96",
-                        "endOffsets": "261,358"
-                    },
-                    "to": {
-                        "startLines": "164,228",
-                        "startColumns": "4,4",
-                        "startOffsets": "12577,17127",
-                        "endLines": "166,228",
-                        "endColumns": "12,96",
-                        "endOffsets": "12783,17219"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\060a5cbbcd1acf56212c5684c4e995c8\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\76180a4a36acbde422358360007ecca5\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,7 +61,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\aa053c054faf635667a92db55b24d41c\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\1ed14da0b862f7f4ec7736721678bd29\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,266",
+                        "endLines": "4,5",
+                        "endColumns": "12,96",
+                        "endOffsets": "261,358"
+                    },
+                    "to": {
+                        "startLines": "164,228",
+                        "startColumns": "4,4",
+                        "startOffsets": "12577,17127",
+                        "endLines": "166,228",
+                        "endColumns": "12,96",
+                        "endOffsets": "12783,17219"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\97476b4131bbb40607d2159fbd4a3d82\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -77,25 +96,6 @@
                         "endLines": "271,274,278,282",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "19978,20141,20435,20730"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\nikul\\.gradle\\caches\\transforms-1\\files-1.1\\leakcanary-android-1.5.4.aar\\ad8117dcf7cd142c368fc9df5c4f944c\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "3",
-                        "endColumns": "10",
-                        "endOffsets": "140"
-                    },
-                    "to": {
-                        "startLines": "291",
-                        "startColumns": "4",
-                        "startOffsets": "21245",
-                        "endLines": "292",
-                        "endColumns": "10",
-                        "endOffsets": "21330"
                     }
                 }
             ]

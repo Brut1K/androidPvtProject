@@ -1,5 +1,6 @@
 package com.example.nikul.myapplication.classWork.classWork1;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,6 +10,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.nikul.myapplication.R;
+import com.example.nikul.myapplication.presentation.notification.NewMessageNotification;
 import com.example.nikul.myapplication.presentation.screens.hw1.Hw1Activity;
 import com.example.nikul.myapplication.presentation.screens.hw2.Hw2Activity;
 import com.example.nikul.myapplication.presentation.screens.hw3.Hw3Activity;
@@ -28,7 +30,11 @@ import com.example.nikul.myapplication.homeWork.homeWork7.HomeWork7;
 import com.example.nikul.myapplication.homeWork.homeWork8.HomeWork8;
 import com.example.nikul.myapplication.homeWork.homeWork9.HomeWork9;
 import com.example.nikul.myapplication.samples.broadcact.BroadcastActivity;
+import com.example.nikul.myapplication.utils.ImageChooser;
+import com.example.nikul.myapplication.utils.MapsActivity;
 import com.squareup.leakcanary.LeakCanary;
+
+import java.io.File;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -88,21 +94,27 @@ public class MainActivity extends AppCompatActivity {
         cw10 = findViewById(R.id.cw10);
         hw10 = findViewById(R.id.hw10);
 
+        NewMessageNotification.notify(this,"sasd",5);
+
         broadcast = findViewById(R.id.buttonBroadcast);
 
         cw1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                Intent intent = new Intent(MainActivity.this, ClassWork9.class);
-                startActivity(intent);
-                setAnimation();
+                ImageChooser.startGallery(MainActivity.this);
+
+//                Intent intent = new Intent(MainActivity.this, ClassWork9.class);
+//                startActivity(intent);
+//                setAnimation();
         /*        //эквивалент атрибута noHistory
                 finish();
                 */
 
             }
         });
+
+
         hw1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -130,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
         cw3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, ClassWork3.class);
+                Intent intent = new Intent(MainActivity.this, MapsActivity.class);
                 startActivity(intent);
             }
         });
@@ -290,5 +302,18 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG, "onPause");
     }
 
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if(resultCode== Activity.RESULT_OK){
+            File file = ImageChooser.getImageFromResult(this,requestCode,resultCode,data);
+            if(file!=null){
+                Log.e("AAA","file path" +file.getAbsolutePath());
+            }
+            else{
+                Log.e("AAA","No file");
+            }
 
+        }
+
+    }
 }

@@ -11,6 +11,7 @@ import com.example.nikul.myapplication.presentation.base.BaseMVVMActivity;
 public class ClockActivity extends BaseMVVMActivity<ActivityClockBinding,ClockViewModel> {
     @Override
     public int provideLayoutId() {
+        int a=10/0;
         return R.layout.activity_clock;
     }
 

@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
-#Wed Apr 11 13:21:29 MSK 2018
+#Mon Apr 23 21:26:42 MSK 2018
+1.base=D\:\\javapvt\\androidApp\\presentation\\build\\intermediates\\assets\\debug
 0.baseType=DIRECTORY
-0.base=D\:\\javapvt\\androidApp\\presentation\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
 0.path=classes.dex
 0.set=DEX
-count=1
+0.base=D\:\\javapvt\\androidApp\\presentation\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=crashlytics-build.properties

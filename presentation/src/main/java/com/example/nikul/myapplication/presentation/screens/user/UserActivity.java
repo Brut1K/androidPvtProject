@@ -8,18 +8,22 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.Toolbar;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
 
 import com.example.nikul.myapplication.R;
 
-import com.example.nikul.myapplication.presentation.base.BaseMVVMActivity;
+
 import com.example.nikul.myapplication.databinding.ActivityClasswork10Binding;
 import com.example.nikul.myapplication.presentation.base.BaseMVVMActivitywithRouter;
-import com.example.nikul.myapplication.presentation.base.Router;
 
 
 public class UserActivity extends BaseMVVMActivitywithRouter<ActivityClasswork10Binding, UserViewModel,UserRouter> {
 
-    //закинуть в screens/user
+
     private static final String KEY_USER_ID ="KEY_USER_ID";
 
     public static void show(Activity activity, String id){
@@ -52,6 +56,47 @@ public class UserActivity extends BaseMVVMActivitywithRouter<ActivityClasswork10
         binding.recyclerviewCW10.setLayoutManager(new LinearLayoutManager(this));
         binding.recyclerviewCW10.setHasFixedSize(true);
         binding.recyclerviewCW10.setAdapter(viewModel.userAdapter);
-        
+        Toolbar toolbar = binding.toolbar;
+        setSupportActionBar(toolbar);
+        //убираем title с названием приложения
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+        toolbar.setNavigationIcon(R.drawable.ic_android_black_24dp);
+        toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Log.e("AAA","click on ANdroid");
+                //клик по левой иконке
+            }
+        });
+
+
+
+
+
+
+    }
+
+
+    //два метода, чтобы сделать кнопки справа в toolbar'е
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.menu_toolbar,menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+//клик листенер для кнопок, вешаем клики на правую часть тулбара
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()){
+            case (R.id.actionsearch):{
+                Log.e("AAA","click on WIFI");
+                break;
+            }
+            default: {
+
+                break;
+            }
+
+        }
+        return super.onOptionsItemSelected(item);
     }
 }

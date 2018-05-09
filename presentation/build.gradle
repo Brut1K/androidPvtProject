@@ -1,5 +1,8 @@
-apply plugin: 'com.android.application'
+buildscript {
 
+    apply plugin: 'com.android.application'
+    apply plugin: 'io.fabric'
+}
 
 android {
     compileSdkVersion rootProject.compileSdkVersion
@@ -15,11 +18,37 @@ android {
         buildConfigField "String", "API_ENDPOINT", '"String from BuildConfig"'
     }
 
+    signingConfigs {
+        debug {
+            storeFile file('../dev.jks')
+            storePassword '780131'
+            keyAlias 'testAlias'
+            keyPassword '780131'
+        }
+
+//        release {
+//            storeFile file('../dev.jks')
+//            storePassword '780131'
+//            keyAlias 'testAlias'
+//            keyPassword '780131'
+//        }
+
+
+    }
+
+
 
     buildTypes {
         release {
+            signingConfig signingConfigs.debug
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            signingConfig signingConfigs.debug
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
         }
     }
     dataBinding {
@@ -39,6 +68,9 @@ dependencies {
     implementation dependency.rxandroid
     implementation dependency.jUnit
     implementation dependency.glide
+    implementation 'com.google.android.gms:play-services-maps:15.0.0'
+    implementation 'com.google.android.gms:play-services-location:15.0.0'
+    implementation 'com.android.support:appcompat-v7:27.0.2'
     annotationProcessor dependency.glidecompiler
     implementation dependency.leakcanary
     implementation dependency.archComponentsExtensions
@@ -47,11 +79,20 @@ dependencies {
     annotationProcessor dependency.daggerCompiler
     implementation dependency.retrofitRxAdapter
     implementation dependency.constraintLayout
+    implementation dependency.rxPermission
 
     annotationProcessor dependency.androidBindingCompiler
 
     implementation "com.squareup.retrofit2:converter-gson:2.4.0"
 
     api project(path: ':data')
+    compile('com.crashlytics.sdk.android:crashlytics:2.9.1@aar') {
+        transitive = true
+    }
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
 
 }

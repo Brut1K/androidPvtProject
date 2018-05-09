@@ -1,63 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.nikul.myapplication">
 
-
-    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <application
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
         android:name=".app.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
-
+        android:theme="@style/AppTheme">
         <activity android:name=".classWork.classWork1.MainActivity">
             <intent-filter>
-            <action android:name="android.intent.action.MAIN"/>
-            <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
 
-        </intent-filter>
-
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
-        <activity android:name=".classWork.classWork1.ClassWork1"/>
-        <activity android:name=".classWork.classWork2.ClassWork2"
-            android:parentActivityName=".classWork.classWork1.MainActivity"
-            />
-        <activity android:name=".classWork.classWork3.ClassWork3"/>
-        <activity android:name=".classWork.classWork4.ClassWork4"/>
-        <activity android:name=".classWork.classWork5.ClassWork5"/>
-        <activity android:name=".classWork.classWork6.ClassWork6"/>
-        <activity android:name=".classWork.classWork7.ClassWork7"/>
-        <activity android:name=".samples.broadcact.BroadcastActivity"/>
-        <activity android:name=".classWork.classWork9.ClassWork9"/>
-        <activity android:name=".presentation.screens.user.UserActivity"/>
-        <activity android:name=".presentation.screens.hw1.Hw1Activity"/>
-        <activity android:name=".presentation.screens.hw2.Hw2Activity"/>
-        <activity android:name=".presentation.screens.hw3.Hw3Activity"/>
-        <activity android:name=".presentation.screens.hw4.Hw4Activity"/>
-        <activity android:name=".presentation.screens.hw4.OwlActivity"/>
-        <activity android:name=".presentation.screens.hw4.ClockActivity"/>
-        <activity android:name=".presentation.screens.hw5.Hw5Activity"/>
-        <activity android:name=".homeWork.homeWork6.HomeWork6"/>
-        <activity android:name=".homeWork.homeWork7.HomeWork7"/>
-        <activity android:name=".homeWork.homeWork8.HomeWork8"/>
-        <activity android:name=".homeWork.homeWork9.HomeWork9"/>
+        <activity android:name=".classWork.classWork1.ClassWork1" />
+        <activity
+            android:name=".classWork.classWork2.ClassWork2"
+            android:parentActivityName=".classWork.classWork1.MainActivity" />
+        <activity android:name=".classWork.classWork3.ClassWork3" />
+        <activity android:name=".classWork.classWork4.ClassWork4" />
+        <activity android:name=".classWork.classWork5.ClassWork5" />
+        <activity android:name=".classWork.classWork6.ClassWork6" />
+        <activity android:name=".classWork.classWork7.ClassWork7" />
+        <activity android:name=".samples.broadcact.BroadcastActivity" />
+        <activity android:name=".classWork.classWork9.ClassWork9" />
+        <activity android:name=".presentation.screens.user.UserActivity" />
+        <activity android:name=".presentation.screens.hw1.Hw1Activity" />
+        <activity android:name=".presentation.screens.hw2.Hw2Activity" />
+        <activity android:name=".presentation.screens.hw3.Hw3Activity" />
+        <activity android:name=".presentation.screens.hw4.Hw4Activity" />
+        <activity android:name=".presentation.screens.hw4.OwlActivity" />
+        <activity android:name=".presentation.screens.hw4.ClockActivity" />
+        <activity android:name=".presentation.screens.hw5.Hw5Activity" />
+        <activity android:name=".homeWork.homeWork6.HomeWork6" />
+        <activity android:name=".homeWork.homeWork7.HomeWork7" />
+        <activity android:name=".homeWork.homeWork8.HomeWork8" />
+        <activity android:name=".homeWork.homeWork9.HomeWork9" />
 
         <receiver android:name=".classWork.classWork5.MyReceiver">
             <intent-filter>
-                <action android:name="android.intent.action.AIRPLANE_MODE"/>
+                <action android:name="android.intent.action.AIRPLANE_MODE" />
             </intent-filter>
         </receiver>
-        <service android:name=".classWork.classWork5.MyService"/>
-        <service android:name=".classWork.classWork5.MyIntentService"/>
-        <service android:name=".samples.broadcact.MyServiceActivity"/>
-        <service android:name=".homeWork.homeWork5.WifiService"/>
 
+        <service android:name=".classWork.classWork5.MyService" />
+        <service android:name=".classWork.classWork5.MyIntentService" />
+        <service android:name=".samples.broadcact.MyServiceActivity" />
+        <service android:name=".homeWork.homeWork5.WifiService" />
 
-        </application>
+        <provider
+            android:name=".utils.MyFileProvider"
+            android:authorities="com.example.nikul.myapplication.utils.MyFileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_path" />
+        </provider>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="fcadfde3e298f3fe9235519e840f69913d2e0e28" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".utils.MapsActivity"
+            android:label="@string/title_activity_maps"></activity>
+    </application>
+
 </manifest>
