@@ -10,7 +10,7 @@ buildscript {
 
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.android.tools.build:gradle:3.1.4'
         classpath 'io.fabric.tools:gradle:1.+'
 
         
@@ -22,7 +22,7 @@ buildscript {
 
 ext {
     compileSdkVersion = 27
-    buildToolsSdkVersion = "27.0.2"
+    buildToolsSdkVersion = "27.0.3"
     minSdkVersion = 18
     targetSdkVersion = 27
     rxJavaVersion = '2.1.10'

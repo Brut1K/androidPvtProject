@@ -4,47 +4,47 @@ ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-1
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-104:12
-MERGED from [:data] D:\javapvt\androidApp\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-10:12
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\a7fb73cbd4bc7cca8f5f92b616e51201\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\856ac5b0a4eaf69b49ce1cb80e76c981\AndroidManifest.xml:17:1-26:12
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:2:1-19:12
-MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\1ed14da0b862f7f4ec7736721678bd29\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\76180a4a36acbde422358360007ecca5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:17:1-32:12
-MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\742467712880e6b1efcaeab44ab0ee84\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\492f7949073110ce9655131710ac52e8\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\f914d8af923907ca15913f8e143d212b\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6b39778916a4cf960eb057693d039b81\AndroidManifest.xml:17:1-22:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\dc25d7ce297004a93e3d42687bc83cee\AndroidManifest.xml:15:1-21:12
-MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\d9b3fff9a6200a617fe5f6b766367cc7\AndroidManifest.xml:2:1-13:12
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:17:1-61:12
-MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:17:1-32:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0e2e204510e97d74fd47882b4bbfe2f\AndroidManifest.xml:2:1-11:12
-MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\3555c1b158708950385bb4b39376fd31\AndroidManifest.xml:2:1-13:12
-MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\b930916c60186067bdd7a5b2f9f50afb\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bbde249a0144bd643d2aa382625e936c\AndroidManifest.xml:17:1-24:12
-MERGED from [:domain] D:\javapvt\androidApp\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-10:12
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:2:1-13:12
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:45:1-56:12
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:2:1-13:12
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:22:1-33:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9a36a785598e4e9d86a1c303c307ab5c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\40bad7d8b99cdcdfb3d01f656f906dd9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3f196e675fa8d1310e42ea37a31e67ee\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\e4d557f895d71132458133233eb112cd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\b939200fe0ba9042302670ed79cc675a\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8c5423caf892b9f997b9e98ca3be8434\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae5d3af4f0b499fd7e2fa89988a4e258\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\97476b4131bbb40607d2159fbd4a3d82\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\0694ce5970672bd937ac57ac947f37bc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\222c5a58e7b3e49149641b11886af165\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\0e379bea0130fc154194b292aa6d7741\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.core:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\70f844627be203265636b2f89830e89d\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\4c72980eb6e81b71bc6f73d47c33c0ba\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.persistence:db:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\ebc9b82d087979a336686a330deb7ad2\AndroidManifest.xml:17:1-24:12
-MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\8564f2fd539946218491537ad7cbfcbf\AndroidManifest.xml:17:1-25:12
+MERGED from [:data] D:\javapvt\androidApp\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\af8c5842330ebe740ca187043c90934c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\b77b5346608ea7575bb0a11979f59a76\AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\38ec94998244950058c9269f78f92d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ab607261359292a95b70633e537c2b38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\0496d341b82dc58a89bc2ed4ad73082b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\ff7166a6cec0e14bd3bd10f732e0aae3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c3b8156daa4081c1ded1c7dd454030d2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\95c33e951d93e696f29407ff27d0ce1c\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\6062f91a02a5275408e135d983263da3\AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\f8f5309bc957a38d2d95a6e1a0507a64\AndroidManifest.xml:2:1-13:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:17:1-61:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\517f7a3a43249b2c48ce1c52cd5a4831\AndroidManifest.xml:2:1-11:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\d7dc42238da9a2f6bd3dba72333db2ed\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\d2bbd0d2b0b7d831401c55c510dab611\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\57bf9cd2af73144ab8b92e6e21c143a1\AndroidManifest.xml:17:1-24:12
+MERGED from [:domain] D:\javapvt\androidApp\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3454ac586177ad8a6d853f71dd8406b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ddea41fa7025b35d800d76561f8c3d78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\618ef6a8b609e2dde19c005c04fbe5a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f734bc4457bcee5168eb98f7103d5984\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\bd07d3310ee2ef5d5d42ee6698225e0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\61d731edb4389f48935e8e7abc529d76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6e8cca3a4da63e223834678c447dda66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d7a100a3cbabd14497f44632021cea40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\78f9760f5171d4c958f5f4a834511391\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\212f311eea7c51a2bd988fb82bd7b745\AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:22:1-33:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c4f6d1d94ad42c856f3e61eeb84eea0d\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72e0249ebb4db5cce5650501eed693d5\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\040e99ebcce36e8e5b9f0bee2c85c15e\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\9952b233a2e29bf5d75a0cccf2517b9f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\bd40bb87e8bea47f5ec4d9ffb0d30dee\AndroidManifest.xml:17:1-25:12
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-104:12
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:2:1-104:12
@@ -72,24 +72,24 @@ ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:6:5-7
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:6:22-73
 uses-permission#android.permission.INTERNET
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:7:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:9:5-67
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:24:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:52:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:9:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:29:5-67
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:29:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:24:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:29:5-67
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:8:5-81
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:24:5-81
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:24:5-81
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.VIBRATE
@@ -98,8 +98,8 @@ ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:9:5-6
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:9:22-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:10:5-80
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:23:5-80
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:23:5-80
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:10:22-77
 uses-feature#android.hardware.camera
@@ -118,42 +118,42 @@ ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:22:5-
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:22:22-78
 application
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:24:5-102:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:11:5-17:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:30:5-20
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:30:5-20
-MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\742467712880e6b1efcaeab44ab0ee84\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\742467712880e6b1efcaeab44ab0ee84\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\492f7949073110ce9655131710ac52e8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\492f7949073110ce9655131710ac52e8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\f914d8af923907ca15913f8e143d212b\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\f914d8af923907ca15913f8e143d212b\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:22:5-26:19
-MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\d9b3fff9a6200a617fe5f6b766367cc7\AndroidManifest.xml:11:5-20
-MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\d9b3fff9a6200a617fe5f6b766367cc7\AndroidManifest.xml:11:5-20
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:26:5-59:19
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:26:5-59:19
-MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:24:5-30:19
-MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:24:5-30:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0e2e204510e97d74fd47882b4bbfe2f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0e2e204510e97d74fd47882b4bbfe2f\AndroidManifest.xml:9:5-20
-MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\3555c1b158708950385bb4b39376fd31\AndroidManifest.xml:11:5-20
-MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\3555c1b158708950385bb4b39376fd31\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:54:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:11:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:31:5-20
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:31:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\b939200fe0ba9042302670ed79cc675a\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\b939200fe0ba9042302670ed79cc675a\AndroidManifest.xml:9:5-20
-MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\8564f2fd539946218491537ad7cbfcbf\AndroidManifest.xml:23:5-20
-MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\8564f2fd539946218491537ad7cbfcbf\AndroidManifest.xml:23:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\0496d341b82dc58a89bc2ed4ad73082b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\0496d341b82dc58a89bc2ed4ad73082b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\ff7166a6cec0e14bd3bd10f732e0aae3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\ff7166a6cec0e14bd3bd10f732e0aae3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c3b8156daa4081c1ded1c7dd454030d2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c3b8156daa4081c1ded1c7dd454030d2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\f8f5309bc957a38d2d95a6e1a0507a64\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\f8f5309bc957a38d2d95a6e1a0507a64\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:26:5-59:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:26:5-59:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\517f7a3a43249b2c48ce1c52cd5a4831\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\517f7a3a43249b2c48ce1c52cd5a4831\AndroidManifest.xml:9:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\d7dc42238da9a2f6bd3dba72333db2ed\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\d7dc42238da9a2f6bd3dba72333db2ed\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:31:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c4f6d1d94ad42c856f3e61eeb84eea0d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c4f6d1d94ad42c856f3e61eeb84eea0d\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\bd40bb87e8bea47f5ec4d9ffb0d30dee\AndroidManifest.xml:23:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\bd40bb87e8bea47f5ec4d9ffb0d30dee\AndroidManifest.xml:23:5-20
 	android:supportsRtl
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:30:9-35
 	android:label
@@ -172,7 +172,7 @@ activity#com.example.nikul.myapplication.classWork.classWork1.MainActivity
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:32:9-38:20
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:32:19-68
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:34:17-69
@@ -272,7 +272,7 @@ receiver#com.example.nikul.myapplication.classWork.classWork5.MyReceiver
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:63:9-67:20
 	android:name
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:63:19-66
-intent-filter#android.intent.action.AIRPLANE_MODE
+intent-filter#action:name:android.intent.action.AIRPLANE_MODE
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:64:13-66:29
 action#android.intent.action.AIRPLANE_MODE
 ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml:65:17-78
@@ -332,88 +332,88 @@ uses-sdk
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
-MERGED from [:data] D:\javapvt\androidApp\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:data] D:\javapvt\androidApp\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\a7fb73cbd4bc7cca8f5f92b616e51201\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\a7fb73cbd4bc7cca8f5f92b616e51201\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\856ac5b0a4eaf69b49ce1cb80e76c981\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.databinding:library:1.3.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\856ac5b0a4eaf69b49ce1cb80e76c981\AndroidManifest.xml:22:5-24:41
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\1ed14da0b862f7f4ec7736721678bd29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\1ed14da0b862f7f4ec7736721678bd29\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\76180a4a36acbde422358360007ecca5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\76180a4a36acbde422358360007ecca5\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\742467712880e6b1efcaeab44ab0ee84\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\742467712880e6b1efcaeab44ab0ee84\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\492f7949073110ce9655131710ac52e8\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.0.aar\492f7949073110ce9655131710ac52e8\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\f914d8af923907ca15913f8e143d212b\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\f914d8af923907ca15913f8e143d212b\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6b39778916a4cf960eb057693d039b81\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6b39778916a4cf960eb057693d039b81\AndroidManifest.xml:20:5-44
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\dc25d7ce297004a93e3d42687bc83cee\AndroidManifest.xml:19:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\dc25d7ce297004a93e3d42687bc83cee\AndroidManifest.xml:19:5-43
-MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\d9b3fff9a6200a617fe5f6b766367cc7\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\d9b3fff9a6200a617fe5f6b766367cc7\AndroidManifest.xml:7:5-9:41
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:20:5-22:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0e2e204510e97d74fd47882b4bbfe2f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f0e2e204510e97d74fd47882b4bbfe2f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\3555c1b158708950385bb4b39376fd31\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\3555c1b158708950385bb4b39376fd31\AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\b930916c60186067bdd7a5b2f9f50afb\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\b930916c60186067bdd7a5b2f9f50afb\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bbde249a0144bd643d2aa382625e936c\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bbde249a0144bd643d2aa382625e936c\AndroidManifest.xml:20:5-22:41
-MERGED from [:domain] D:\javapvt\androidApp\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:domain] D:\javapvt\androidApp\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\df4b08edab552270691be2dc9b804004\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\a32f87ad7e8e12a023965d0ae56ef05f\AndroidManifest.xml:50:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\e817cfdc8c2b81a33fde57d1fe41ed57\AndroidManifest.xml:7:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:27:5-43
-MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\1b35a3d03a5509fff1e026c8f4e57062\AndroidManifest.xml:27:5-43
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9a36a785598e4e9d86a1c303c307ab5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9a36a785598e4e9d86a1c303c307ab5c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\40bad7d8b99cdcdfb3d01f656f906dd9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\40bad7d8b99cdcdfb3d01f656f906dd9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3f196e675fa8d1310e42ea37a31e67ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\3f196e675fa8d1310e42ea37a31e67ee\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\e4d557f895d71132458133233eb112cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\e4d557f895d71132458133233eb112cd\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\b939200fe0ba9042302670ed79cc675a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\b939200fe0ba9042302670ed79cc675a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8c5423caf892b9f997b9e98ca3be8434\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\8c5423caf892b9f997b9e98ca3be8434\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae5d3af4f0b499fd7e2fa89988a4e258\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ae5d3af4f0b499fd7e2fa89988a4e258\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\97476b4131bbb40607d2159fbd4a3d82\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\97476b4131bbb40607d2159fbd4a3d82\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\0694ce5970672bd937ac57ac947f37bc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\0694ce5970672bd937ac57ac947f37bc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\222c5a58e7b3e49149641b11886af165\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\222c5a58e7b3e49149641b11886af165\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\0e379bea0130fc154194b292aa6d7741\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\0e379bea0130fc154194b292aa6d7741\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.core:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\70f844627be203265636b2f89830e89d\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.core:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\70f844627be203265636b2f89830e89d\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\4c72980eb6e81b71bc6f73d47c33c0ba\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\4c72980eb6e81b71bc6f73d47c33c0ba\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\ebc9b82d087979a336686a330deb7ad2\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.persistence:db:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\ebc9b82d087979a336686a330deb7ad2\AndroidManifest.xml:20:5-22:41
-MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\8564f2fd539946218491537ad7cbfcbf\AndroidManifest.xml:21:5-44
-MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\8564f2fd539946218491537ad7cbfcbf\AndroidManifest.xml:21:5-44
+MERGED from [:data] D:\javapvt\androidApp\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:data] D:\javapvt\androidApp\data\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\af8c5842330ebe740ca187043c90934c\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\af8c5842330ebe740ca187043c90934c\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\b77b5346608ea7575bb0a11979f59a76\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\b77b5346608ea7575bb0a11979f59a76\AndroidManifest.xml:22:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\38ec94998244950058c9269f78f92d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\38ec94998244950058c9269f78f92d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ab607261359292a95b70633e537c2b38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ab607261359292a95b70633e537c2b38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\0496d341b82dc58a89bc2ed4ad73082b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.0.aar\0496d341b82dc58a89bc2ed4ad73082b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\ff7166a6cec0e14bd3bd10f732e0aae3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\ff7166a6cec0e14bd3bd10f732e0aae3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c3b8156daa4081c1ded1c7dd454030d2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\c3b8156daa4081c1ded1c7dd454030d2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\95c33e951d93e696f29407ff27d0ce1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\95c33e951d93e696f29407ff27d0ce1c\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\6062f91a02a5275408e135d983263da3\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\6062f91a02a5275408e135d983263da3\AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\f8f5309bc957a38d2d95a6e1a0507a64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\f8f5309bc957a38d2d95a6e1a0507a64\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\517f7a3a43249b2c48ce1c52cd5a4831\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\517f7a3a43249b2c48ce1c52cd5a4831\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\d7dc42238da9a2f6bd3dba72333db2ed\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.9.5.aar\d7dc42238da9a2f6bd3dba72333db2ed\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\d2bbd0d2b0b7d831401c55c510dab611\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\d2bbd0d2b0b7d831401c55c510dab611\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\57bf9cd2af73144ab8b92e6e21c143a1\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\57bf9cd2af73144ab8b92e6e21c143a1\AndroidManifest.xml:20:5-22:41
+MERGED from [:domain] D:\javapvt\androidApp\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:domain] D:\javapvt\androidApp\domain\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3454ac586177ad8a6d853f71dd8406b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\3454ac586177ad8a6d853f71dd8406b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ddea41fa7025b35d800d76561f8c3d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ddea41fa7025b35d800d76561f8c3d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\618ef6a8b609e2dde19c005c04fbe5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\618ef6a8b609e2dde19c005c04fbe5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f734bc4457bcee5168eb98f7103d5984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f734bc4457bcee5168eb98f7103d5984\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\bd07d3310ee2ef5d5d42ee6698225e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\bd07d3310ee2ef5d5d42ee6698225e0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\61d731edb4389f48935e8e7abc529d76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\61d731edb4389f48935e8e7abc529d76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6e8cca3a4da63e223834678c447dda66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6e8cca3a4da63e223834678c447dda66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d7a100a3cbabd14497f44632021cea40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d7a100a3cbabd14497f44632021cea40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\78f9760f5171d4c958f5f4a834511391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\78f9760f5171d4c958f5f4a834511391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\212f311eea7c51a2bd988fb82bd7b745\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\212f311eea7c51a2bd988fb82bd7b745\AndroidManifest.xml:20:5-22:41
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\bde176c4ef9894d62f643c98c0a468d5\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.6.1.aar\8037920fbfddadce8c13c2b03b8c167d\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\a0105ecf7db96dd2a53785d9290799ae\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\fabric-1.4.2.aar\6c8d685371f0b49fd4763c1e5f69faae\AndroidManifest.xml:27:5-43
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c4f6d1d94ad42c856f3e61eeb84eea0d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\c4f6d1d94ad42c856f3e61eeb84eea0d\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72e0249ebb4db5cce5650501eed693d5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\72e0249ebb4db5cce5650501eed693d5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\040e99ebcce36e8e5b9f0bee2c85c15e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\040e99ebcce36e8e5b9f0bee2c85c15e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\9952b233a2e29bf5d75a0cccf2517b9f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\9952b233a2e29bf5d75a0cccf2517b9f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\bd40bb87e8bea47f5ec4d9ffb0d30dee\AndroidManifest.xml:21:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\bd40bb87e8bea47f5ec4d9ffb0d30dee\AndroidManifest.xml:21:5-44
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
 INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -425,96 +425,96 @@ INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
 		ADDED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
 		INJECTED from D:\javapvt\androidApp\presentation\src\main\AndroidManifest.xml
 provider#com.crashlytics.android.CrashlyticsInitProvider
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:12:9-16:39
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:12:9-16:39
 	android:authorities
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:14:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:14:13-75
 	android:exported
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:15:13-37
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:15:13-37
 	android:initOrder
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:16:13-36
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\a84496a65009c418b8f7597bc7d783b7\AndroidManifest.xml:13:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.1.aar\bca31c39876af4739a4759fca4293278\AndroidManifest.xml:13:13-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:23:5-79
+ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:23:22-76
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:23:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\bcd9e4b5169957975d757f1ec0bc8b86\AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.0.aar\5e160ddfcdfa66d5e8096757499d0696\AndroidManifest.xml:28:9-32
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\8e99b1ad88f8bf1795a9f17ffa1f03cc\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0b94cad41c0316d4e5cd4c544fa4e4e8\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\d7ac4dbe3644c17cc531669fcd911690\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bb2bbd9413c000fabbefc9815f0604dd\AndroidManifest.xml:24:13-58
 service#com.squareup.leakcanary.internal.HeapAnalyzerService
-ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:27:9-30:45
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:27:9-30:45
 	android:process
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:30:13-42
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:30:13-42
 	android:enabled
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:29:13-36
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:28:13-80
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:28:13-80
 service#com.squareup.leakcanary.DisplayLeakService
-ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:31:9-34:45
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:31:9-34:45
 	android:process
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:34:13-42
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:34:13-42
 	android:enabled
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:33:13-36
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:33:13-36
 	android:name
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:32:13-70
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:32:13-70
 activity#com.squareup.leakcanary.internal.DisplayLeakActivity
-ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:36:9-49:20
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:36:9-49:20
 	android:process
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:41:13-42
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:41:13-42
 	android:enabled
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:38:13-36
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:38:13-36
 	android:label
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:40:13-71
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:40:13-71
 	android:icon
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:39:13-54
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:39:13-54
 	android:theme
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:43:13-63
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:43:13-63
 	android:taskAffinity
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:42:13-76
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:42:13-76
 	android:name
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:37:13-80
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:37:13-80
 activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
-ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:50:9-58:68
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:50:9-58:68
 	android:process
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:56:13-42
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:56:13-42
 	android:enabled
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:52:13-36
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:52:13-36
 	android:label
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:55:13-82
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:55:13-82
 	android:excludeFromRecents
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:53:13-46
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:53:13-46
 	android:icon
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:54:13-54
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:54:13-54
 	android:theme
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:58:13-65
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:58:13-65
 	android:taskAffinity
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:57:13-76
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:57:13-76
 	android:name
-		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\abecf5f81b629ce7d8e4b234c72c44d9\AndroidManifest.xml:51:13-93
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\76ac47a2f061c67ed58d4ee475530cda\AndroidManifest.xml:51:13-93
 provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:25:9-29:43
+ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:25:9-29:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:27:13-68
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:27:13-68
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:29:13-40
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:29:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:28:13-37
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\e3973cea100d1143bb6c91ab8462d871\AndroidManifest.xml:26:13-83
+		ADDED from [android.arch.lifecycle:extensions:1.0.0] C:\Users\nikul\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0.aar\be8b3f3b69166fb1cc6e011cde823d84\AndroidManifest.xml:26:13-83
